@@ -1,1 +1,4796 @@
-{}
+{
+  "Max Melton": {
+    "team": "Arizona Cardinals",
+    "status": "Questionable",
+    "comment": "CB Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Garrett Williams": {
+    "team": "Arizona Cardinals",
+    "status": "Questionable",
+    "comment": "CB Achilles",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dadrion Taylor-Demerson": {
+    "team": "Arizona Cardinals",
+    "status": "Questionable",
+    "comment": "S Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andrew Billings": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Starling Thomas V": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Hjalte Froholdt": {
+    "team": "Arizona Cardinals",
+    "status": "Questionable",
+    "comment": "C Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Roy Lopez": {
+    "team": "Arizona Cardinals",
+    "status": "Questionable",
+    "comment": "DT Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Will Johnson": {
+    "team": "Arizona Cardinals",
+    "status": "Injured Reserve",
+    "comment": "CB Neck",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mack Wilson Sr.": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Budda Baker": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kendrick Bourne": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chad Ryland": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Fryar": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Allgeier": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jacoby Brissett": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marvin Harrison Jr.": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Michael Wilson": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jeremiyah Love": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trey McBride": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaac Seumalo": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaiah Adams": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Carson Beck": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Reggie Virgil": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Gibbens": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cody Simon": {
+    "team": "Arizona Cardinals",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Samson Ebukam": {
+    "team": "Atlanta Falcons",
+    "status": "Out",
+    "comment": "DE Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Billy Bowman Jr.": {
+    "team": "Atlanta Falcons",
+    "status": "Questionable",
+    "comment": "CB Achilles",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jawaan Taylor": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Harrison": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Muse": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Dorlus": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "C.J. Henderson": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brian Robinson Jr.": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tua Tagovailoa": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "A.J. Terrell Jr.": {
+    "team": "Atlanta Falcons",
+    "status": "Injured Reserve",
+    "comment": "CB Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zachariah Branch": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Austin Hooper": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Olamide Zaccheaus": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jahan Dotson": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Folk": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Michael Penix Jr.": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malcolm DeWalt IV": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ethan Onianwa": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Strand": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cooper Rush": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyle Pitts Sr.": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drake London": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bijan Robinson": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Lindstrom": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Divine Deablo": {
+    "team": "Atlanta Falcons",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Moore": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "WR Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zay Flowers": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "WR Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ronnie Stanley": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "OT Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nnamdi Madubuike": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Teddye Buchanan": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zion Young": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "LB Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "John Simpson": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "G Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malaki Starks": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "S Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trey Hendrickson": {
+    "team": "Baltimore Ravens",
+    "status": "Questionable",
+    "comment": "LB Finger",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyle Hamilton": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Roquan Smith": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Sarratt": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Devontez Walker": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "LaJohntay Wester": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Justice Hill": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mark Andrews": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andrew Vorhees": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Gerad Lichtenhan": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Joe Fagnano": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Loop": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rashod Bateman": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Derrick Henry": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Lamar Jackson": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "T.J. Tampa": {
+    "team": "Baltimore Ravens",
+    "status": "Injured Reserve",
+    "comment": "CB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Keondre Jackson": {
+    "team": "Baltimore Ravens",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ed Oliver": {
+    "team": "Buffalo Bills",
+    "status": "Questionable",
+    "comment": "DT Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ty Johnson": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Keon Coleman": {
+    "team": "Buffalo Bills",
+    "status": "Questionable",
+    "comment": "WR Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "T.J. Sanders": {
+    "team": "Buffalo Bills",
+    "status": "Questionable",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ar'maj Reed-Adams": {
+    "team": "Buffalo Bills",
+    "status": "Questionable",
+    "comment": "G Elbow",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordan Hancock": {
+    "team": "Buffalo Bills",
+    "status": "Questionable",
+    "comment": "CB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DJ Moore": {
+    "team": "Buffalo Bills",
+    "status": "Questionable",
+    "comment": "WR Shoulder - AC Joint",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jude Bowry": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalon Kilgore": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Skyler Bell": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bradley Chubb": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cole Bishop": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christian Benford": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Terrel Bernard": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Greg Rousseau": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jackson Hawes": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ray Davis": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dawson Knox": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Joshua Palmer": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Khalil Shakir": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dalton Kincaid": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Bass": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "James Cook III": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Allen": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jedrick Wills Jr.": {
+    "team": "Buffalo Bills",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Coker": {
+    "team": "Carolina Panthers",
+    "status": "Questionable",
+    "comment": "WR Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trevis Gipson": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bobby Brown III": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaiah Simmons": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Patrick Jones II": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaelan Phillips": {
+    "team": "Carolina Panthers",
+    "status": "Questionable",
+    "comment": "LB Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Scott": {
+    "team": "Carolina Panthers",
+    "status": "Questionable",
+    "comment": "S Ribs",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Devin Lloyd": {
+    "team": "Carolina Panthers",
+    "status": "Questionable",
+    "comment": "LB Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonathon Brooks": {
+    "team": "Carolina Panthers",
+    "status": "Injured Reserve",
+    "comment": "RB Abdomen",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Xavier Legette": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "AJ Dillon": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bobby Okereke": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Haynes King": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyrel Dodson": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ja'Tavion Sanders": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Albert Reese IV": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chau Smith-Wade": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darren Waller": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ryan Fitzgerald": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bryce Young": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chuba Hubbard": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tetairoa McMillan": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Claudin Cherelus": {
+    "team": "Carolina Panthers",
+    "status": "Questionable",
+    "comment": "LB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kenny Pickett": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "John Metchie III": {
+    "team": "Carolina Panthers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Johnson Jr.": {
+    "team": "Chicago Bears",
+    "status": "Injured Reserve",
+    "comment": "S Undisclosed",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Shemar Turner": {
+    "team": "Chicago Bears",
+    "status": "Out",
+    "comment": "DT Knee - ACL",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Noah Sewell": {
+    "team": "Chicago Bears",
+    "status": "Out",
+    "comment": "LB Achilles",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyle Monangai": {
+    "team": "Chicago Bears",
+    "status": "Questionable",
+    "comment": "RB Undisclosed",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyson Bagent": {
+    "team": "Chicago Bears",
+    "status": "Questionable",
+    "comment": "QB Concussion",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Case Keenum": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Caleb Williams": {
+    "team": "Chicago Bears",
+    "status": "Doubtful",
+    "comment": "QB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sam Roush": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Devin Bush": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "T.J. Edwards": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cairo Santos": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cole Kmet": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kalif Raymond": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ozzy Trapilo": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordan McFadden": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jayden Loving": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jamree Kromah": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Colston Loveland": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Luther Burden III": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rome Odunze": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "D'Andre Swift": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyrique Stevenson Sr.": {
+    "team": "Chicago Bears",
+    "status": "Questionable",
+    "comment": "CB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malik Muhammad II": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Xavier Woods": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dayo Odeyingbo": {
+    "team": "Chicago Bears",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonathan Allen": {
+    "team": "Cincinnati Bengals",
+    "status": "Questionable",
+    "comment": "DT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andrei Iosivas": {
+    "team": "Cincinnati Bengals",
+    "status": "Out",
+    "comment": "WR Thumb",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Erick All Jr.": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drew Sample": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Barrett Carter": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cedric Johnson": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dax Hill": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Demetrius Knight Jr.": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "B.J. Hill": {
+    "team": "Cincinnati Bengals",
+    "status": "Questionable",
+    "comment": "DT Achilles",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Samaje Perine": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mike Gesicki": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Myles Hinton": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ke'Shawn Williams": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Connor Lew": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "C",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Landon Robinson": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Newton": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Evan McPherson": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Joe Burrow": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tee Higgins": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chase Brown": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ja'Marr Chase": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Shemar Stewart": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Endries": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DJ Turner II": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Myles Murphy": {
+    "team": "Cincinnati Bengals",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyson Campbell": {
+    "team": "Cleveland Browns",
+    "status": "Questionable",
+    "comment": "CB Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quincy Williams": {
+    "team": "Cleveland Browns",
+    "status": "Questionable",
+    "comment": "LB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tytus Howard": {
+    "team": "Cleveland Browns",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mason Graham": {
+    "team": "Cleveland Browns",
+    "status": "Questionable",
+    "comment": "DT Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Grant Delpit": {
+    "team": "Cleveland Browns",
+    "status": "Questionable",
+    "comment": "S Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Blake Whiteheart": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaleel McLaughlin": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Raheim Sanders": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Carson Schwesinger": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Teven Jenkins": {
+    "team": "Cleveland Browns",
+    "status": "Questionable",
+    "comment": "G Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jerry Jeudy": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Daniel Thomas": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Taylen Green": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Parker Brailsford": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "C",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Justin Jefferson": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Toriano Pride Jr.": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "KC Concepcion": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Denzel Boston": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andre Szmyt": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Deshaun Watson": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Harold Fannin Jr.": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quinshon Judkins": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Noah Igbinoghene": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Shedeur Sanders": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elgton Jenkins": {
+    "team": "Cleveland Browns",
+    "status": "Active",
+    "comment": "C",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malik Hooker": {
+    "team": "Dallas Cowboys",
+    "status": "Doubtful",
+    "comment": "S Forearm",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DeMarvion Overshown": {
+    "team": "Dallas Cowboys",
+    "status": "Questionable",
+    "comment": "LB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Markquese Bell": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ryan Flournoy": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Emari Demercado": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cobie Durant": {
+    "team": "Dallas Cowboys",
+    "status": "Out",
+    "comment": "CB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "P.J. Locke": {
+    "team": "Dallas Cowboys",
+    "status": "Out",
+    "comment": "S Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Caelen Carson": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ajani Cornelius": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Camden Brown": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "James Houston": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Aubrey": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dak Prescott": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "George Pickens": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Javonte Williams": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "CeeDee Lamb": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jake Ferguson": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dee Winters": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Goodson": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Caleb Downs": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Donovan Ezeiruaku": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "KaVontae Turpin": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonathan Mingo": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Luke Schoonmaker": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brevyn Spann-Ford": {
+    "team": "Dallas Cowboys",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marvin Mims Jr.": {
+    "team": "Denver Broncos",
+    "status": "Questionable",
+    "comment": "WR Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonah Coleman": {
+    "team": "Denver Broncos",
+    "status": "Questionable",
+    "comment": "RB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "RJ Harvey": {
+    "team": "Denver Broncos",
+    "status": "Questionable",
+    "comment": "RB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "J.K. Dobbins": {
+    "team": "Denver Broncos",
+    "status": "Questionable",
+    "comment": "RB Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Troy Franklin": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nate Adkins": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Badie": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Alex Singleton": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Pat Bryant": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Evan Engram": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Wil Lutz": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bo Nix": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Courtland Sutton": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaylen Waddle": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Talanoa Hufanga": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Jones": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Allen": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Adam Trautman": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Lil'Jordan Humphrey": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Luke Wattenberg": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "C",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Riley Moss": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jarrett Stidham": {
+    "team": "Denver Broncos",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonathon Cooper": {
+    "team": "Denver Broncos",
+    "status": "Out",
+    "comment": "LB Personal",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Gargiulo": {
+    "team": "Denver Broncos",
+    "status": "Out",
+    "comment": "G Knee - ACL",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Frank Crum": {
+    "team": "Denver Broncos",
+    "status": "Injured Reserve",
+    "comment": "OT Undisclosed",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tate Ratledge": {
+    "team": "Detroit Lions",
+    "status": "Questionable",
+    "comment": "G Elbow",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ahmed Hassanein": {
+    "team": "Detroit Lions",
+    "status": "Questionable",
+    "comment": "DE Illness",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Thomas Harper": {
+    "team": "Detroit Lions",
+    "status": "Questionable",
+    "comment": "S Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ben Bartch": {
+    "team": "Detroit Lions",
+    "status": "Questionable",
+    "comment": "G Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Avonte Maddox": {
+    "team": "Detroit Lions",
+    "status": "Injured Reserve",
+    "comment": "CB Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christian Mahogany": {
+    "team": "Detroit Lions",
+    "status": "Questionable",
+    "comment": "G Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Blake Miller": {
+    "team": "Detroit Lions",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jimmy Rolder": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Keith Abney II": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ennis Rakestraw Jr.": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mekhi Wingo": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Aidan Hutchinson": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Campbell": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jacob Saylors": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sione Vaki": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaac TeSlaa": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jameson Williams": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sam LaPorta": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Derrick Barnes": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chuck Clark": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jared Goff": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jake Bates": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Amon-Ra St. Brown": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jahmyr Gibbs": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Levi Onwuzurike": {
+    "team": "Detroit Lions",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Donovan Jennings": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Aaron Banks": {
+    "team": "Green Bay Packers",
+    "status": "Out",
+    "comment": "G Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Warren Brinson": {
+    "team": "Green Bay Packers",
+    "status": "Out",
+    "comment": "DT Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Javon Hargrave": {
+    "team": "Green Bay Packers",
+    "status": "Questionable",
+    "comment": "DT Concussion",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Edgerrin Cooper": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jayden Reed": {
+    "team": "Green Bay Packers",
+    "status": "Out",
+    "comment": "WR Neck",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Belton": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Cisse": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Skyy Moore": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kaleb Johnson": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonnu Smith": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Brooks": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Bako-Bewele": {
+    "team": "Green Bay Packers",
+    "status": "Out",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Campbell": {
+    "team": "Green Bay Packers",
+    "status": "Questionable",
+    "comment": "DT Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Benjamin St-Juste": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Evan Williams": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Lukas Van Ness": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bo Melton": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "John Williams": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Travis Glover": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "MarShawn Lloyd": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trey Smack": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tucker Kraft": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Matthew Golden": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christian Watson": {
+    "team": "Green Bay Packers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nico Collins": {
+    "team": "Houston Texans",
+    "status": "Questionable",
+    "comment": "WR Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "M.J. Stewart": {
+    "team": "Houston Texans",
+    "status": "Out",
+    "comment": "S Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Logan Hall": {
+    "team": "Houston Texans",
+    "status": "Questionable",
+    "comment": "DE Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trent Brown": {
+    "team": "Houston Texans",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Will Anderson Jr.": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaylin Noel": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Azeez Al-Shaair": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jared Wayne": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Foster Moreau": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jake Hummel": {
+    "team": "Houston Texans",
+    "status": "Questionable",
+    "comment": "LB Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ed Ingram": {
+    "team": "Houston Texans",
+    "status": "Questionable",
+    "comment": "G Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jadeveon Clowney": {
+    "team": "Houston Texans",
+    "status": "Questionable",
+    "comment": "DE Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kayshon Boutte": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Xavier Hutchinson": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nate Thomas": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brevin Jordan": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Collin Wright": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ka'imi Fairbairn": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Woody Marks": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dalton Schultz": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "David Montgomery": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "C.J. Stroud": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Henry To'oTo'o": {
+    "team": "Houston Texans",
+    "status": "Injured Reserve",
+    "comment": "LB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaden Crumedy": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Febechi Nwaiwu": {
+    "team": "Houston Texans",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ashton Dulin": {
+    "team": "Indianapolis Colts",
+    "status": "Questionable",
+    "comment": "WR Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Charvarius Ward": {
+    "team": "Indianapolis Colts",
+    "status": "Questionable",
+    "comment": "CB Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DJ Giddens": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Alec Pierce": {
+    "team": "Indianapolis Colts",
+    "status": "Out",
+    "comment": "WR Heel",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Laquon Treadwell": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Akeem Davis-Gaither": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Micheal Clemons": {
+    "team": "Indianapolis Colts",
+    "status": "Injured Reserve",
+    "comment": "DE Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Seth McGowan": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darius Slayton": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Spencer Shrader": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dalton Tucker": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Austin Ajiake": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "George Gumbs Jr.": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Riley Leonard": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Keenan Allen": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Downs": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Daniel Jones": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Warren": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonathan Taylor": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Richardson Sr.": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cam Taylor-Britt": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drew Ogletree": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "A.J. Haulcy": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sedrick Van Pran-Granger": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "C",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sauce Gardner": {
+    "team": "Indianapolis Colts",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "LeQuint Allen Jr.": {
+    "team": "Jacksonville Jaguars",
+    "status": "Questionable",
+    "comment": "RB Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DaVon Hamilton": {
+    "team": "Jacksonville Jaguars",
+    "status": "Questionable",
+    "comment": "DT Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cole Van Lanen": {
+    "team": "Jacksonville Jaguars",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Robert Hainsey": {
+    "team": "Jacksonville Jaguars",
+    "status": "Questionable",
+    "comment": "C Elbow",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jakobi Meyers": {
+    "team": "Jacksonville Jaguars",
+    "status": "Questionable",
+    "comment": "WR Thumb",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ameer Abdullah": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Cameron": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Foyesade Oluokun": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Travis Hunter": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Kiser": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Daniel Faalele": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Huskey": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Wesley Williams": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cam Little": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brenton Strange": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brian Thomas Jr.": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trevor Lawrence": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Parker Washington": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bhayshul Tuten": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Rodriguez Jr.": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "CJ Williams": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tanner Koziol": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quinn Ewers": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "B.J. Green II": {
+    "team": "Jacksonville Jaguars",
+    "status": "Injured Reserve",
+    "comment": "DE Elbow",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ventrell Miller": {
+    "team": "Jacksonville Jaguars",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "L'Jarius Sneed": {
+    "team": "Kansas City Chiefs",
+    "status": "Questionable",
+    "comment": "CB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Jones": {
+    "team": "Kansas City Chiefs",
+    "status": "Questionable",
+    "comment": "DT Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Felix Anudike-Uzomah": {
+    "team": "Kansas City Chiefs",
+    "status": "Questionable",
+    "comment": "DE Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Royals": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaden Hicks": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Bolton": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cyrus Allen": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Noah Gray": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyquan Thornton": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Harrison Butker": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Emmett Johnson": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Xavier Worthy": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Travis Kelce": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rashee Rice": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Patrick Mahomes": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kenneth Walker III": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mansoor Delane": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cooper McDonald": {
+    "team": "Kansas City Chiefs",
+    "status": "Injured Reserve",
+    "comment": "LB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nikko Remigio": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jake Briningstool": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brashard Smith": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ashton Gillotte": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trey Smith": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "R Mason Thomas": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drue Tranquill": {
+    "team": "Kansas City Chiefs",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Treydan Stukes": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "S Concussion",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darien Porter": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "CB Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nakobe Dean": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "LB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brock Bowers": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "TE Knee - Meniscus",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Folorunso Fatukasi": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "DT Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Bech": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Hezekiah Masses": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quay Walker": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Aidan O'Connell": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "QB Personal",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cody White": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Fernando Mendoza": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Matt Gay": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bryce Cabeldue": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dalton Johnson": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tristin McCollum": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "JJ Pegues": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Nailor": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mike Washington Jr.": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Michael Mayer": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kirk Cousins": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ashton Jeanty": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tre Tucker": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dareke Young": {
+    "team": "Las Vegas Raiders",
+    "status": "Questionable",
+    "comment": "WR Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Maxx Crosby": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kwity Paye": {
+    "team": "Las Vegas Raiders",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Deane Leonard": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dalvin Tomlinson": {
+    "team": "Los Angeles Chargers",
+    "status": "Doubtful",
+    "comment": "DT Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Molden": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "CB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Derwin James Jr.": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "S Finger",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marquez Valdes-Scantling": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brenen Thompson": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "WR Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tuli Tuipulotu": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "LB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rashawn Slater": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "OT Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cole Strange": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "G Pectoral",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rodney Shelley": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "CB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "David Njoku": {
+    "team": "Los Angeles Chargers",
+    "status": "Injured Reserve",
+    "comment": "TE Lower Leg",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kayode Awosika": {
+    "team": "Los Angeles Chargers",
+    "status": "Doubtful",
+    "comment": "G Lower Leg",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Charlie Kolar": {
+    "team": "Los Angeles Chargers",
+    "status": "Out",
+    "comment": "TE Forearm",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kimani Vidal": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Daiyan Henley": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Hayden Rucci": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trey Pipkins III": {
+    "team": "Los Angeles Chargers",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tre' Harris": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Keaton Mitchell": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Oronde Gadsden": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Logan Taylor": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Alex Harkey": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isas Waxter": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cameron Dicker": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quentin Johnston": {
+    "team": "Los Angeles Chargers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Puka Nacua": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "WR Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kamren Kinchens": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "S Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nate Landman": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "LB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordan Whittington": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "WR Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ronnie Rivers": {
+    "team": "Los Angeles Rams",
+    "status": "Injured Reserve",
+    "comment": "RB Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Colby Parkinson": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "TE Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Alaric Jackson": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Terrance Ferguson": {
+    "team": "Los Angeles Rams",
+    "status": "Questionable",
+    "comment": "TE Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kam Curl": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quentin Lake": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Xavier Smith": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Higbee": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tutu Atwell": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Konata Mumpfield": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Davis Allen": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Harrison Mevis": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bill Murray": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ty Simpson": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "CJ Daniels": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Matthew Stafford": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Blake Corum": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyren Williams": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Davante Adams": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Aaron Donald": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Omar Speights": {
+    "team": "Los Angeles Rams",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Caleb Douglas": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "WR Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Bell": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "WR Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Robert Beal Jr.": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "DE Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ryan Miller": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "WR Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaylen Wright": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "RB Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chop Robinson": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "LB Concussion",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "JuJu Brents": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "CB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tucker Addington": {
+    "team": "Miami Dolphins",
+    "status": "Questionable",
+    "comment": "LS Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kevin Coleman Jr.": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordyn Brooks": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jacob Rodriguez": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ollie Gordon II": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malik Washington": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Greg Dulcich": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Riley Patterson": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marcellas Dial Jr.": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Tolbert": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Justin Joly": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DJ Campbell": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brady Cook": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chukwuebuka Godrick": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malik Willis": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "De'Von Achane": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ronnie Harrison Jr.": {
+    "team": "Miami Dolphins",
+    "status": "Injured Reserve",
+    "comment": "LB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Seydou Traore": {
+    "team": "Miami Dolphins",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DeeJay Dallas": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "RB Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jauan Jennings": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Redmond": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "DT Elbow",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Samac": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "C Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brian O'Neill": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jake Golday": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "LB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Aaron Jones Sr.": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "RB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Oliver": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Byron Murphy Jr.": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Blake Cashman": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brett Thorson": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "P Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Demond Claiborne": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyrion Ingram-Dawkins": {
+    "team": "Minnesota Vikings",
+    "status": "Questionable",
+    "comment": "DE Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dallas Turner": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "T.J. Hockenson": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Carson Wentz": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyler Murray": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zemaiah Vaughn": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Williams": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Caleb Tiernan": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jakobe Thomas": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordan Addison": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Will Reichard": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyle Van Noy": {
+    "team": "Minnesota Vikings",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dell Pettus": {
+    "team": "New England Patriots",
+    "status": "Injured Reserve",
+    "comment": "S Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brenden Schooler": {
+    "team": "New England Patriots",
+    "status": "Out",
+    "comment": "S Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Eli Raridon": {
+    "team": "New England Patriots",
+    "status": "Questionable",
+    "comment": "TE Thigh",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Reggie Gilliam": {
+    "team": "New England Patriots",
+    "status": "Questionable",
+    "comment": "FB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Carlton Davis III": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Morgan Moses": {
+    "team": "New England Patriots",
+    "status": "Questionable",
+    "comment": "OT Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Quintayvious Hutchins": {
+    "team": "New England Patriots",
+    "status": "Questionable",
+    "comment": "LB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyle Williams": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Robert Spillane": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Charles Woods": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Ponder": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christian Elliss": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mike Onwenu": {
+    "team": "New England Patriots",
+    "status": "Injured Reserve",
+    "comment": "G Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dametrious Crownover": {
+    "team": "New England Patriots",
+    "status": "Questionable",
+    "comment": "OT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DeMario Douglas": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mack Hollins": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Leonard Taylor III": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Walter Rouse": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "OL",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Behren Morton": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tanner Arkin": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Hunter Henry": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andy Borregales": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Romeo Doubs": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rhamondre Stevenson": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drake Maye": {
+    "team": "New England Patriots",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaiah Stalbird": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christen Miller": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "DT Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chase Young": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "DE Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonas Sanker": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "S Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kelvin Banks Jr.": {
+    "team": "New Orleans Saints",
+    "status": "Injured Reserve",
+    "comment": "OT Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nathan Shepherd": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "DT Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Barion Brown": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "WR Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Travis Etienne Jr.": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "RB Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Oscar Delp": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bryce Lance": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kaden Elliss": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Pete Werner": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Martin Emerson Jr.": {
+    "team": "New Orleans Saints",
+    "status": "Questionable",
+    "comment": "CB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Daniel Carlson": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Alvin Kamara": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Juwan Johnson": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kendre Miller": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Wilson": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Decamerion Richardson": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mason Murphy": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "John Ridgeway III": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Devaughn Vele": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Shough": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Olave": {
+    "team": "New Orleans Saints",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Wood": {
+    "team": "New Orleans Saints",
+    "status": "Injured Reserve",
+    "comment": "LS Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andrew Thomas": {
+    "team": "New York Giants",
+    "status": "Questionable",
+    "comment": "OT Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Micah McFadden": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Deonte Banks": {
+    "team": "New York Giants",
+    "status": "Questionable",
+    "comment": "CB Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Nubin": {
+    "team": "New York Giants",
+    "status": "Questionable",
+    "comment": "S Calf",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brian Burns": {
+    "team": "New York Giants",
+    "status": "Questionable",
+    "comment": "LB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Shelby Harris": {
+    "team": "New York Giants",
+    "status": "Questionable",
+    "comment": "DT Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaxson Dart": {
+    "team": "New York Giants",
+    "status": "Out",
+    "comment": "QB Knee - Meniscus",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malik Nabers": {
+    "team": "New York Giants",
+    "status": "Questionable",
+    "comment": "WR Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tremaine Edmunds": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jevon Holland": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Theo Johnson": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Odell Beckham Jr.": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dominic Zvada": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darnell Mooney": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Devin Singletary": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Najee Harris": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyrone Tracy Jr.": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darius Alexander": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "J.C. Davis": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bobby Jamison-Travis": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Thomas Fidone II": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jason Pinnock": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jameis Winston": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malachi Fields": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaiah Likely": {
+    "team": "New York Giants",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kene Nwangwu": {
+    "team": "New York Jets",
+    "status": "Questionable",
+    "comment": "RB Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Minkah Fitzpatrick": {
+    "team": "New York Jets",
+    "status": "Questionable",
+    "comment": "S Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Joseph Ossai": {
+    "team": "New York Jets",
+    "status": "Questionable",
+    "comment": "DE Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Arian Smith": {
+    "team": "New York Jets",
+    "status": "Injured Reserve",
+    "comment": "WR Knee - ACL",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "David Onyemata": {
+    "team": "New York Jets",
+    "status": "Injured Reserve",
+    "comment": "DT Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "David Bailey": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mason Taylor": {
+    "team": "New York Jets",
+    "status": "Doubtful",
+    "comment": "TE Thumb",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Demario Davis": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jamien Sherwood": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marcelino McCrary-Ball": {
+    "team": "New York Jets",
+    "status": "Injured Reserve",
+    "comment": "LB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Troy Reeder": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaiah Davis": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Malik McClain": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Braelon Allen": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kenyon Sadiq": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jason Sanders": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaiah Williams": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Trevin Wallace": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "D'Angelo Ponds": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Blake Grupe": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Adonai Mitchell": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Geno Smith": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Garrett Wilson": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Breece Hall": {
+    "team": "New York Jets",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kiko Mauigoa": {
+    "team": "New York Jets",
+    "status": "Questionable",
+    "comment": "LB Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Saquon Barkley": {
+    "team": "Philadelphia Eagles",
+    "status": "Questionable",
+    "comment": "RB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darius Cooper": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Will Shipley": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Johnny Mundt": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zack Baun": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jihaad Campbell": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jonathan Greenard": {
+    "team": "Philadelphia Eagles",
+    "status": "Questionable",
+    "comment": "LB Pectoral",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Ertz": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jake Elliott": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Makai Lemon": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dallas Goedert": {
+    "team": "Philadelphia Eagles",
+    "status": "Doubtful",
+    "comment": "TE Knee - MCL",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tanner McKee": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cole Payton": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Moore": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Micah Morris": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dontayvion Wicks": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tank Bigsby": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DeVonta Smith": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Hurts": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andy Dalton": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Andrew Mukuba": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Carter": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cooper DeJean": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Landon Dickerson": {
+    "team": "Philadelphia Eagles",
+    "status": "Injured Reserve",
+    "comment": "G Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Britain Covey": {
+    "team": "Philadelphia Eagles",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rico Dowdle": {
+    "team": "Pittsburgh Steelers",
+    "status": "Questionable",
+    "comment": "RB Toe",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaylen Warren": {
+    "team": "Pittsburgh Steelers",
+    "status": "Questionable",
+    "comment": "RB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jamel Dean": {
+    "team": "Pittsburgh Steelers",
+    "status": "Questionable",
+    "comment": "CB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Joey Porter Jr.": {
+    "team": "Pittsburgh Steelers",
+    "status": "Questionable",
+    "comment": "CB Undisclosed",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Michael Pittman Jr.": {
+    "team": "Pittsburgh Steelers",
+    "status": "Questionable",
+    "comment": "WR Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Patrick Queen": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Darnell Washington": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Travis Homer": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Boswell": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Pat Freiermuth": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Roman Wilson": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Germie Bernard": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Gabriel Rubio": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kevin Jobity Jr.": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drew Allar": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Gennings Dunker": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Will Howard": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DK Metcalf": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Aaron Rodgers": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Troy Fautanu": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaquan Brisker": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Payton Wilson": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "T.J. Watt": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Asante Samuel Jr.": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandin Echols": {
+    "team": "Pittsburgh Steelers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mike Evans": {
+    "team": "San Francisco 49ers",
+    "status": "Questionable",
+    "comment": "WR Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Naquan Jones": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "C.J. West": {
+    "team": "San Francisco 49ers",
+    "status": "Injured Reserve",
+    "comment": "DT Undisclosed",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mac Jones": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kyle Juszczyk": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "FB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Fred Warner": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ji'Ayir Brown": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marques Sigle": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordan James": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Romello Height": {
+    "team": "San Francisco 49ers",
+    "status": "Questionable",
+    "comment": "DE Hand",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Eddy Pineiro": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "James Thompson Jr.": {
+    "team": "San Francisco 49ers",
+    "status": "Doubtful",
+    "comment": "DT Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Demarcus Robinson": {
+    "team": "San Francisco 49ers",
+    "status": "Out",
+    "comment": "WR Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tatum Bethune": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Enrique Cruz Jr.": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ephesians Prysock": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Aiyuk": {
+    "team": "San Francisco 49ers",
+    "status": "Out",
+    "comment": "WR Personal",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Deebo Samuel Sr.": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kaelon Black": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "George Kittle": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brock Purdy": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christian McCaffrey": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jack Jones": {
+    "team": "San Francisco 49ers",
+    "status": "Questionable",
+    "comment": "CB Foot",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jordan Watkins": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kurtis Rourke": {
+    "team": "San Francisco 49ers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sam Darnold": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "QB Lower Body",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ty Okada": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "S Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ernest Jones IV": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "LB Neck",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Bradford": {
+    "team": "Seattle Seahawks",
+    "status": "Injured Reserve",
+    "comment": "G Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cooper Kupp": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "WR Back",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "George Holani": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "RB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brady Russell": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "FB Chest",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rodney Thomas II": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Zach Charbonnet": {
+    "team": "Seattle Seahawks",
+    "status": "Out",
+    "comment": "RB Knee - ACL",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jadarian Price": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "RB Chest",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Emmanwori": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tory Horton": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Arroyo": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rashid Shaheed": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "AJ Barner": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Mike Morris": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "DE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Connor O'Toole": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Montorie Foster Jr.": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jason Myers": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Emanuel Wilson": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drew Lock": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaxon Smith-Njigba": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Pili": {
+    "team": "Seattle Seahawks",
+    "status": "Questionable",
+    "comment": "DT Concussion",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Jones": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen Milroe": {
+    "team": "Seattle Seahawks",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jacob Parrish": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Rueben Bain Jr.": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Questionable",
+    "comment": "LB Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josiah Trotter": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Questionable",
+    "comment": "LB Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Nelson": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Questionable",
+    "comment": "LB Shin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tez Johnson": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tykee Smith": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sean Tucker": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jalen McMillan": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ted Hurst III": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cade Otton": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elijah Simmons": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ayden Garnes": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Luke Haggard": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Billy Schrauth": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "DeMonte Capehart": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chris Godwin Jr.": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kenny Gainwell": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chase McLaughlin": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Baker Mayfield": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Emeka Egbuka": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Bucky Irving": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Miles Killebrew": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Justin Skule": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Christian Rozeboom": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Josh Hayes": {
+    "team": "Tampa Bay Buccaneers",
+    "status": "Injured Reserve",
+    "comment": "CB Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Fernando Carmona": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cor'Dale Flott": {
+    "team": "Tennessee Titans",
+    "status": "Questionable",
+    "comment": "CB Quadriceps",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "James Williams Sr.": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tony Pollard": {
+    "team": "Tennessee Titans",
+    "status": "Questionable",
+    "comment": "RB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyjae Spears": {
+    "team": "Tennessee Titans",
+    "status": "Questionable",
+    "comment": "RB Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Solomon Thomas": {
+    "team": "Tennessee Titans",
+    "status": "Questionable",
+    "comment": "DT Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marcus Harris": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Amani Hooker": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Anthony Hill Jr.": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nicholas Singleton": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "RB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Elic Ayomanor": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Calvin Ridley": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Crenshaw-Dickson": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "OT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Atonio Mafi": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kylen Granson": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jackie Marshall": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "DT",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Wan'Dale Robinson": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Gunnar Helm": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Carnell Tate": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Joey Slye": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cam Ward": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Micah Robinson": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Cedric Gray": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kevin Winston Jr.": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "S",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chimere Dike": {
+    "team": "Tennessee Titans",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Chig Okonkwo": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "TE Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Brandon Coleman": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "G",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jeremy Reaves": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "S Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Leo Chenal": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "LB Chest",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Frankie Luvu": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "LB Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Charles Omenihu": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "DE Ankle",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Tyler Owens": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "S Hamstring",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Percy Butler": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "S Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Kaytron Allen": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "RB Hip",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dorance Armstrong": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "DE Knee",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Javon Kinlaw": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "DT Shoulder",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Nick Cross": {
+    "team": "Washington Commanders",
+    "status": "Out",
+    "comment": "S Undisclosed",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jayden Daniels": {
+    "team": "Washington Commanders",
+    "status": "Out",
+    "comment": "QB Elbow",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Jaylin Lane": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "WR Groin",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Colson Yankoff": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Treylon Burks": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "John Bates": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sonny Styles": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "LB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Ben Sinnott": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "TE",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Dyami Brown": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Antonio Williams": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "WR",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Sam Cosmi": {
+    "team": "Washington Commanders",
+    "status": "Questionable",
+    "comment": "G Concussion",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Drew Stevens": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "PK",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Marcus Mariota": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "QB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  },
+  "Isaac Yiadom": {
+    "team": "Washington Commanders",
+    "status": "Active",
+    "comment": "CB",
+    "updatedAt": "2026-09-24T18:38:41+00:00"
+  }
+}
