@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-09-25T11:33:46+00:00",
+    "player": "Tucker Kraft",
+    "team": "Green Bay Packers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-25T11:33:46+00:00",
+    "player": "Trey Smack",
+    "team": "Green Bay Packers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-25T11:33:46+00:00",
+    "player": "John Williams",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-25T11:33:46+00:00",
+    "player": "Travis Glover",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-25T04:23:15+00:00",
     "player": "Jordan Love",
     "team": "Green Bay Packers",
