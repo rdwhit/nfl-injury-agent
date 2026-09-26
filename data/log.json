@@ -1,5 +1,138 @@
 [
   {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Tanner Hudson",
+    "team": "Cincinnati Bengals",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Kolbe Katsis",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Laken Tomlinson",
+    "team": "Green Bay Packers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Patrick Herbert",
+    "team": "Los Angeles Chargers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "DJ Uiagalelei",
+    "team": "Los Angeles Chargers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Braxton Berrios",
+    "team": "New York Giants",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Jake Haener",
+    "team": "New York Giants",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Lew Nichols",
+    "team": "Pittsburgh Steelers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Demarcus Robinson",
+    "team": "San Francisco 49ers",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Velus Jones Jr.",
+    "team": "Seattle Seahawks",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Myles Murphy",
+    "team": "Cincinnati Bengals",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Frank Crum",
+    "team": "Denver Broncos",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Lukas Van Ness",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Isas Waxter",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Cameron Dicker",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Malachi Fields",
+    "team": "New York Giants",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Isaiah Likely",
+    "team": "New York Giants",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Brandin Echols",
+    "team": "Pittsburgh Steelers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T23:27:13+00:00",
+    "player": "Josh Jones",
+    "team": "Seattle Seahawks",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-26T20:53:36+00:00",
     "player": "Maema Njongmeta",
     "team": "Carolina Panthers",
