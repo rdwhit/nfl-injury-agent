@@ -1,0 +1,92 @@
+# Updates the NHL admin every 3 hours, anchored to 6pm Eastern:
+# 6pm, 9pm, 12am, 3am, 6am, 9am, 12pm, 3pm ET (all year, including after daylight saving ends).
+# GitHub schedules use UTC, so this wakes up at the right UTC hours for both summer
+# and winter time, and the first step skips any run that isn't one of those Eastern times.
+
+name: Update NHL admin injuries
+
+on:
+  schedule:
+    - cron: "0 1,4,7,10,13,16,19,22 * * *"   # summer (EDT)
+    - cron: "0 2,5,8,11,14,17,20,23 * * *"   # winter (EST)
+  workflow_dispatch:   # "Run workflow" button: always runs, any time
+
+permissions:
+  contents: write      # lets the agent save its history log (logs folder)
+
+concurrency:
+  group: update-nhl-admin
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      # "false" = PRACTICE: reports what it would change, saves nothing.
+      # Change to "true" after you've checked a few practice reports.
+      LIVE_MODE: "true"
+    steps:
+      - name: Check the Eastern time schedule
+        id: gate
+        run: |
+          ZONE=$(TZ=America/New_York date +%Z)
+          echo "Eastern time now: $(TZ=America/New_York date '+%-I:%M %p %Z')"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Started by hand: running."; echo "go=true" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 1,4,7,10,13,16,19,22 * * *" ] && [ "$ZONE" = "EDT" ]; then
+            echo "Summer-time schedule: running (even if GitHub started it late)."; echo "go=true" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 2,5,8,11,14,17,20,23 * * *" ] && [ "$ZONE" = "EST" ]; then
+            echo "Winter-time schedule: running (even if GitHub started it late)."; echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "This wake-up is for the other half of the year (daylight saving). Skipping."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Get the repo files
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the browser tool
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Update the admin
+        if: steps.gate.outputs.go == 'true'
+        env:
+          ADMIN_URL: ${{ secrets.ADMIN_URL }}
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          TRACKER_URL: ${{ secrets.TRACKER_URL }}
+          SCOREABLES_URL: ${{ secrets.SCOREABLES_URL }}
+        run: python update_admin.py
+
+      - name: Save history log
+        if: always() && steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "nhl-admin-agent"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add logs/ || true
+          if git diff --cached --quiet; then
+            echo "No log changes to save."
+          else
+            git commit -m "NHL sync log $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Keep screenshots for troubleshooting
+        if: always() && steps.gate.outputs.go == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshots
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 7
