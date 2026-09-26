@@ -1,5 +1,369 @@
 [
   {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Maema Njongmeta",
+    "team": "Carolina Panthers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Claudin Cherelus",
+    "team": "Carolina Panthers",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Anthony Tyus III",
+    "team": "Carolina Panthers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "David Moore",
+    "team": "Carolina Panthers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Tyrique Stevenson Sr.",
+    "team": "Chicago Bears",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Cairo Santos",
+    "team": "Chicago Bears",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Caleb Williams",
+    "team": "Chicago Bears",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Andrei Iosivas",
+    "team": "Cincinnati Bengals",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Justin Barron",
+    "team": "Dallas Cowboys",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "P.J. Locke",
+    "team": "Dallas Cowboys",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Jonah Coleman",
+    "team": "Denver Broncos",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Thomas Harper",
+    "team": "Detroit Lions",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Jake Hummel",
+    "team": "Houston Texans",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Lewis Bond",
+    "team": "Houston Texans",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Nick Westbrook-Ikhine",
+    "team": "Indianapolis Colts",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Anthony Gould",
+    "team": "Indianapolis Colts",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Alec Pierce",
+    "team": "Indianapolis Colts",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Aidan O'Connell",
+    "team": "Las Vegas Raiders",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Trey Pipkins III",
+    "team": "Los Angeles Chargers",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Dean Connors",
+    "team": "Los Angeles Rams",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Nick Samac",
+    "team": "Minnesota Vikings",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Ivan Pace Jr.",
+    "team": "Minnesota Vikings",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Jalen Moreno-Cropper",
+    "team": "New Orleans Saints",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Kevin Austin Jr.",
+    "team": "New Orleans Saints",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Kene Nwangwu",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Jamaal Pritchett",
+    "team": "New York Jets",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Sterling Shepard",
+    "team": "New York Jets",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Hollywood Brown",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Will Shipley",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Tank Bigsby",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Dallas Goedert",
+    "team": "Philadelphia Eagles",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Fred Johnson",
+    "team": "Philadelphia Eagles",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "DeVonta Smith",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Gennings Dunker",
+    "team": "Pittsburgh Steelers",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Erick Hallett II",
+    "team": "Tennessee Titans",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Michael Carter",
+    "team": "Tennessee Titans",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Tetairoa McMillan",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Kenny Pickett",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "John Metchie III",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Brevyn Spann-Ford",
+    "team": "Dallas Cowboys",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Febechi Nwaiwu",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Sedrick Van Pran-Granger",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Sauce Gardner",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Omar Speights",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Kyle Van Noy",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Chris Olave",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Zach Wood",
+    "team": "New Orleans Saints",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Garrett Wilson",
+    "team": "New York Jets",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Breece Hall",
+    "team": "New York Jets",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Landon Dickerson",
+    "team": "Philadelphia Eagles",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Cedric Gray",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T20:53:36+00:00",
+    "player": "Kevin Winston Jr.",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-26T04:27:53+00:00",
     "player": "Garrett Williams",
     "team": "Arizona Cardinals",
