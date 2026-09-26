@@ -1,5 +1,208 @@
 [
   {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Garrett Williams",
+    "team": "Arizona Cardinals",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Dadrion Taylor-Demerson",
+    "team": "Arizona Cardinals",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Hjalte Froholdt",
+    "team": "Arizona Cardinals",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Jordan Hancock",
+    "team": "Buffalo Bills",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Greg Dortch",
+    "team": "Buffalo Bills",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Kamren Kinchens",
+    "team": "Los Angeles Rams",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Nate Landman",
+    "team": "Los Angeles Rams",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Jordan Whittington",
+    "team": "Los Angeles Rams",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Quintayvious Hutchins",
+    "team": "New England Patriots",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Andrew Mukuba",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Jalen Carter",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Hollywood Brown",
+    "team": "Philadelphia Eagles",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Saquon Barkley",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "James Thompson Jr.",
+    "team": "San Francisco 49ers",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Romello Height",
+    "team": "San Francisco 49ers",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Nick Bosa",
+    "team": "San Francisco 49ers",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Ty Okada",
+    "team": "Seattle Seahawks",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Julian Love",
+    "team": "Seattle Seahawks",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Sam Cosmi",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Javon Kinlaw",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Leo Chenal",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Frankie Luvu",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Chig Okonkwo",
+    "team": "Washington Commanders",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Charles Omenihu",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Percy Butler",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Jaylin Lane",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Dorance Armstrong",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Jedrick Wills Jr.",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T04:27:53+00:00",
+    "player": "Britain Covey",
+    "team": "Philadelphia Eagles",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-25T21:21:46+00:00",
     "player": "Ronnie Stanley",
     "team": "Baltimore Ravens",
