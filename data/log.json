@@ -1,5 +1,96 @@
 [
   {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Jessie Bates III",
+    "team": "Atlanta Falcons",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Xavier Watts",
+    "team": "Atlanta Falcons",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Xavier McKinney",
+    "team": "Green Bay Packers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Zaire Franklin",
+    "team": "Green Bay Packers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "J. Michael Sturdivant",
+    "team": "Green Bay Packers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Bo Melton",
+    "team": "Green Bay Packers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "A.J. Terrell Jr.",
+    "team": "Atlanta Falcons",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Chris Lindstrom",
+    "team": "Atlanta Falcons",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Warren Brinson",
+    "team": "Green Bay Packers",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Anthony Belton",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Brandon Cisse",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-27T04:45:36+00:00",
+    "player": "Benjamin St-Juste",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-26T23:27:13+00:00",
     "player": "Tanner Hudson",
     "team": "Cincinnati Bengals",
