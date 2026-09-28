@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-09-28T13:27:51+00:00",
+    "player": "Josh Oliver",
+    "team": "Minnesota Vikings",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-09-28T13:27:51+00:00",
+    "player": "Leo Chenal",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
     "ts": "2026-09-28T04:47:34+00:00",
     "player": "Lamar Jackson",
     "team": "Baltimore Ravens",
@@ -3484,19 +3498,5 @@
     "team": "Los Angeles Chargers",
     "from": "Questionable",
     "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Trey Lance",
-    "team": "Los Angeles Chargers",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Tuli Tuipulotu",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
   }
 ]
