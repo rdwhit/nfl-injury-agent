@@ -1,5 +1,929 @@
 [
   {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Lamar Jackson",
+    "team": "Baltimore Ravens",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Josh Allen",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "James Cook III",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Ryan Fitzgerald",
+    "team": "Carolina Panthers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Bryce Young",
+    "team": "Carolina Panthers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Chuba Hubbard",
+    "team": "Carolina Panthers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tetairoa McMillan",
+    "team": "Carolina Panthers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Chase Brown",
+    "team": "Cincinnati Bengals",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jalen Thompson",
+    "team": "Dallas Cowboys",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Marvin Mims Jr.",
+    "team": "Denver Broncos",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tyler Onyedim",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Sai'vion Jones",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Sam Ehlinger",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Lil'Jordan Humphrey",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Dallen Bentley",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Kage Casey",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jordan Jackson",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Amon-Ra St. Brown",
+    "team": "Detroit Lions",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jahmyr Gibbs",
+    "team": "Detroit Lions",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jared Wiley",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Diego Pounds",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Josh Simmons",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Garrett Nussmeier",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jack Pyburn",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Chamarri Conner",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Bryson Eason",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jackson Powers-Johnson",
+    "team": "Las Vegas Raiders",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jack Bech",
+    "team": "Las Vegas Raiders",
+    "from": "Active",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Cameron Dicker",
+    "team": "Los Angeles Chargers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Ladd McConkey",
+    "team": "Los Angeles Chargers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jaylen Watson",
+    "team": "Los Angeles Rams",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Colby Parkinson",
+    "team": "Los Angeles Rams",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Kamren Kinchens",
+    "team": "Los Angeles Rams",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Ty Simpson",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Maximus Pulley",
+    "team": "Los Angeles Rams",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Bill Murray",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "CJ Daniels",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tutu Atwell",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Puka Nacua",
+    "team": "Los Angeles Rams",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Will Reichard",
+    "team": "Minnesota Vikings",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jordan Addison",
+    "team": "Minnesota Vikings",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Josh Oliver",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Charles Demmings",
+    "team": "Minnesota Vikings",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Rhamondre Stevenson",
+    "team": "New England Patriots",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "TreVeyon Henderson",
+    "team": "New England Patriots",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Drake Maye",
+    "team": "New England Patriots",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Noah Fant",
+    "team": "New Orleans Saints",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tyler Shough",
+    "team": "New Orleans Saints",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Chris Olave",
+    "team": "New Orleans Saints",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Travis Etienne Jr.",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Anfernee Jennings",
+    "team": "New Orleans Saints",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Carl Granderson",
+    "team": "New Orleans Saints",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Pete Werner",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jameis Winston",
+    "team": "New York Giants",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Geno Smith",
+    "team": "New York Jets",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Garrett Wilson",
+    "team": "New York Jets",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Dylan Parham",
+    "team": "New York Jets",
+    "from": "Out",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Mike Evans",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Dre Greenlaw",
+    "team": "San Francisco 49ers",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Renardo Green",
+    "team": "San Francisco 49ers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Gracen Halton",
+    "team": "San Francisco 49ers",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Trent Williams",
+    "team": "San Francisco 49ers",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jason Myers",
+    "team": "Seattle Seahawks",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jaxon Smith-Njigba",
+    "team": "Seattle Seahawks",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jalon Daniels",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Fernando Carmona",
+    "team": "Tennessee Titans",
+    "from": "Out",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tyjae Spears",
+    "team": "Tennessee Titans",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jaylon Jones",
+    "team": "Tennessee Titans",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Terry McLaurin",
+    "team": "Washington Commanders",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jacory Croskey-Merritt",
+    "team": "Washington Commanders",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Marcus Mariota",
+    "team": "Washington Commanders",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Leo Chenal",
+    "team": "Washington Commanders",
+    "from": "Out",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Gerad Lichtenhan",
+    "team": "Baltimore Ravens",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Khalil Shakir",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tyler Bass",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "AJ Dillon",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Bobby Okereke",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tyrel Dodson",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Chau Smith-Wade",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Ke'Shawn Williams",
+    "team": "Cincinnati Bengals",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Luke Schoonmaker",
+    "team": "Dallas Cowboys",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Adam Trautman",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Luke Wattenberg",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Riley Moss",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jarrett Stidham",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jonathon Cooper",
+    "team": "Denver Broncos",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Nick Gargiulo",
+    "team": "Denver Broncos",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Derrick Barnes",
+    "team": "Detroit Lions",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Chuck Clark",
+    "team": "Detroit Lions",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Cooper McDonald",
+    "team": "Kansas City Chiefs",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Nikko Remigio",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jake Briningstool",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Brashard Smith",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Ashton Gillotte",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Trey Smith",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "R Mason Thomas",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tre Tucker",
+    "team": "Las Vegas Raiders",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Kimani Vidal",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Daiyan Henley",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Hayden Rucci",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Oronde Gadsden",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Davis Allen",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Harrison Mevis",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Dallas Turner",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "T.J. Hockenson",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Carson Wentz",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "DeMario Douglas",
+    "team": "New England Patriots",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Walter Rouse",
+    "team": "New England Patriots",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tanner Arkin",
+    "team": "New England Patriots",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Bryce Lance",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Kaden Elliss",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Daniel Carlson",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Decamerion Richardson",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Mason Murphy",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Tyrone Tracy Jr.",
+    "team": "New York Giants",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Malik McClain",
+    "team": "New York Jets",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Braelon Allen",
+    "team": "New York Jets",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Marques Sigle",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Jordan James",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Brandon Aiyuk",
+    "team": "San Francisco 49ers",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Kaelon Black",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "AJ Barner",
+    "team": "Seattle Seahawks",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Mike Morris",
+    "team": "Seattle Seahawks",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Justin Skule",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Joey Slye",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Ben Sinnott",
+    "team": "Washington Commanders",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Dyami Brown",
+    "team": "Washington Commanders",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T04:47:34+00:00",
+    "player": "Antonio Williams",
+    "team": "Washington Commanders",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-27T21:10:03+00:00",
     "player": "Max Melton",
     "team": "Arizona Cardinals",
@@ -2574,915 +3498,5 @@
     "team": "Los Angeles Chargers",
     "from": "Questionable",
     "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Kayode Awosika",
-    "team": "Los Angeles Chargers",
-    "from": "Doubtful",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Brenen Thompson",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Puka Nacua",
-    "team": "Los Angeles Rams",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Robert Beal Jr.",
-    "team": "Miami Dolphins",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Chris Bell",
-    "team": "Miami Dolphins",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Tucker Addington",
-    "team": "Miami Dolphins",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "DeeJay Dallas",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Nick Samac",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Brett Thorson",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Jalen Redmond",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Jake Golday",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Aaron Jones Sr.",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Quintayvious Hutchins",
-    "team": "New England Patriots",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Reggie Gilliam",
-    "team": "New England Patriots",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Morgan Moses",
-    "team": "New England Patriots",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Dre'Mont Jones",
-    "team": "New England Patriots",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Christen Miller",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Barion Brown",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Travis Etienne Jr.",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Kendre Miller",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Shelby Harris",
-    "team": "New York Giants",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Andrew Thomas",
-    "team": "New York Giants",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Kene Nwangwu",
-    "team": "New York Jets",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Gennings Dunker",
-    "team": "Pittsburgh Steelers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Rico Dowdle",
-    "team": "Pittsburgh Steelers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Jadarian Price",
-    "team": "Seattle Seahawks",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Anthony Nelson",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Rueben Bain Jr.",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Josiah Trotter",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Micah Robinson",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Daniel Bellinger",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Solomon Thomas",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Tony Pollard",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Ventrell Miller",
-    "team": "Jacksonville Jaguars",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T21:21:46+00:00",
-    "player": "Quentin Johnston",
-    "team": "Los Angeles Chargers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "B.J. Hill",
-    "team": "Cincinnati Bengals",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Jacob Monk",
-    "team": "Green Bay Packers",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Nico Collins",
-    "team": "Houston Texans",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Ashton Dulin",
-    "team": "Indianapolis Colts",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Jaylen Wright",
-    "team": "Miami Dolphins",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Caleb Douglas",
-    "team": "Miami Dolphins",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Mason Taylor",
-    "team": "New York Jets",
-    "from": "Doubtful",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Minkah Fitzpatrick",
-    "team": "New York Jets",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Kiko Mauigoa",
-    "team": "New York Jets",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Nick Bosa",
-    "team": "San Francisco 49ers",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Chig Okonkwo",
-    "team": "Washington Commanders",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-25T16:56:57+00:00",
-    "player": "Bo Melton",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T11:33:46+00:00",
-    "player": "Tucker Kraft",
-    "team": "Green Bay Packers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T11:33:46+00:00",
-    "player": "Trey Smack",
-    "team": "Green Bay Packers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T11:33:46+00:00",
-    "player": "John Williams",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T11:33:46+00:00",
-    "player": "Travis Glover",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Jordan Love",
-    "team": "Green Bay Packers",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Jager Burton",
-    "team": "Green Bay Packers",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Edgerrin Cooper",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Alaric Jackson",
-    "team": "Los Angeles Rams",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Dre'Mont Jones",
-    "team": "New England Patriots",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Craig Woodson",
-    "team": "New England Patriots",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Britain Covey",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "George Holani",
-    "team": "Seattle Seahawks",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Jeremy Reaves",
-    "team": "Washington Commanders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Tyler Owens",
-    "team": "Washington Commanders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Kaytron Allen",
-    "team": "Washington Commanders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Trey Smack",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Tucker Kraft",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Rhamondre Stevenson",
-    "team": "New England Patriots",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Drake Maye",
-    "team": "New England Patriots",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-25T04:23:15+00:00",
-    "player": "Shaun Wade",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jack Strand",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Billy Bowman Jr.",
-    "team": "Atlanta Falcons",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Cooper Rush",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Robert Longerbeam",
-    "team": "Atlanta Falcons",
-    "from": "Available",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Ethan Onianwa",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Malcolm DeWalt IV",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "John Simpson",
-    "team": "Baltimore Ravens",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Zion Young",
-    "team": "Baltimore Ravens",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jaelan Phillips",
-    "team": "Carolina Panthers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Xavier Legette",
-    "team": "Carolina Panthers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Cairo Santos",
-    "team": "Chicago Bears",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jonathan Allen",
-    "team": "Cincinnati Bengals",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Tytus Howard",
-    "team": "Cleveland Browns",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Mason Graham",
-    "team": "Cleveland Browns",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Malik Hooker",
-    "team": "Dallas Cowboys",
-    "from": "Doubtful",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "DeMarvion Overshown",
-    "team": "Dallas Cowboys",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "RJ Harvey",
-    "team": "Denver Broncos",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "J.K. Dobbins",
-    "team": "Denver Broncos",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Ahmed Hassanein",
-    "team": "Detroit Lions",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Anthony Campbell",
-    "team": "Green Bay Packers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Javon Hargrave",
-    "team": "Green Bay Packers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Logan Hall",
-    "team": "Houston Texans",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Felix Anudike-Uzomah",
-    "team": "Kansas City Chiefs",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Kwity Paye",
-    "team": "Las Vegas Raiders",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Dareke Young",
-    "team": "Las Vegas Raiders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Folorunso Fatukasi",
-    "team": "Las Vegas Raiders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Darien Porter",
-    "team": "Las Vegas Raiders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Nakobe Dean",
-    "team": "Las Vegas Raiders",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Cole Strange",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Rashawn Slater",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Derwin James Jr.",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Terrance Ferguson",
-    "team": "Los Angeles Rams",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Chop Robinson",
-    "team": "Miami Dolphins",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Tyrion Ingram-Dawkins",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Brian O'Neill",
-    "team": "Minnesota Vikings",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Dametrious Crownover",
-    "team": "New England Patriots",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Kendre Miller",
-    "team": "New Orleans Saints",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Nathan Shepherd",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Chase Young",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jonas Sanker",
-    "team": "New Orleans Saints",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jaxson Dart",
-    "team": "New York Giants",
-    "from": "Out",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Malik Nabers",
-    "team": "New York Giants",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Adonai Mitchell",
-    "team": "New York Jets",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Will Shipley",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Andrew Mukuba",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jalen Carter",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Tank Bigsby",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "DeVonta Smith",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Shaun Wade",
-    "team": "Philadelphia Eagles",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Gennings Dunker",
-    "team": "Pittsburgh Steelers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Nick Bosa",
-    "team": "San Francisco 49ers",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Sam Darnold",
-    "team": "Seattle Seahawks",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Brady Russell",
-    "team": "Seattle Seahawks",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Julian Love",
-    "team": "Seattle Seahawks",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Ernest Jones IV",
-    "team": "Seattle Seahawks",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Cooper Kupp",
-    "team": "Seattle Seahawks",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Micah Robinson",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Daniel Bellinger",
-    "team": "Tennessee Titans",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Divine Deablo",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Britain Covey",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Kurtis Rourke",
-    "team": "San Francisco 49ers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Jalen Milroe",
-    "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-24T23:48:48+00:00",
-    "player": "Chimere Dike",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
