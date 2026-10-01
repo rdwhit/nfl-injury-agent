@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-01T12:50:46+00:00",
+    "player": "Germie Bernard",
+    "team": "Pittsburgh Steelers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-01T12:50:46+00:00",
+    "player": "Joey Porter Jr.",
+    "team": "Pittsburgh Steelers",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-01T05:14:25+00:00",
     "player": "Andrew Wingard",
     "team": "Arizona Cardinals",
@@ -3482,20 +3496,6 @@
     "ts": "2026-09-29T05:13:40+00:00",
     "player": "Patrick Herbert",
     "team": "Los Angeles Chargers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Braxton Berrios",
-    "team": "New York Giants",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Jake Haener",
-    "team": "New York Giants",
     "from": "Active",
     "to": "Cleared"
   }
