@@ -1,5 +1,96 @@
 [
   {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Princely Umanmielen",
+    "team": "Carolina Panthers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Lee Hunter",
+    "team": "Carolina Panthers",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "D'Andre Swift",
+    "team": "Chicago Bears",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Keenan Allen",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Ashton Dulin",
+    "team": "Indianapolis Colts",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Akeem Davis-Gaither",
+    "team": "Indianapolis Colts",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Chance Campbell",
+    "team": "Philadelphia Eagles",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Brandin Echols",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Yahya Black",
+    "team": "Pittsburgh Steelers",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Amik Robertson",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Isaiah Simmons",
+    "team": "Carolina Panthers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Elijah Moore",
+    "team": "Philadelphia Eagles",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-01T20:14:42+00:00",
+    "player": "Germie Bernard",
+    "team": "Pittsburgh Steelers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-01T12:50:46+00:00",
     "player": "Germie Bernard",
     "team": "Pittsburgh Steelers",
@@ -3405,97 +3496,6 @@
     "ts": "2026-09-29T05:13:40+00:00",
     "player": "Troy Reeder",
     "team": "New York Jets",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Cooper DeJean",
-    "team": "Philadelphia Eagles",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Calvin Ridley",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Sonny Styles",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Anthony Tyus III",
-    "team": "Carolina Panthers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "David Moore",
-    "team": "Carolina Panthers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Lewis Bond",
-    "team": "Houston Texans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Nick Westbrook-Ikhine",
-    "team": "Indianapolis Colts",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Dean Connors",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Jalen Moreno-Cropper",
-    "team": "New Orleans Saints",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Kevin Austin Jr.",
-    "team": "New Orleans Saints",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Michael Carter",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Kolbe Katsis",
-    "team": "Denver Broncos",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T05:13:40+00:00",
-    "player": "Patrick Herbert",
-    "team": "Los Angeles Chargers",
     "from": "Active",
     "to": "Cleared"
   }
