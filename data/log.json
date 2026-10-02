@@ -1,5 +1,110 @@
 [
   {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Mason Graham",
+    "team": "Cleveland Browns",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Mike Hall Jr.",
+    "team": "Cleveland Browns",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "M.J. Stewart",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Kevin Austin Jr.",
+    "team": "New Orleans Saints",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Jihad Ward",
+    "team": "New York Giants",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Johnny Mundt",
+    "team": "Philadelphia Eagles",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Derrick Harmon",
+    "team": "Pittsburgh Steelers",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Jamel Dean",
+    "team": "Pittsburgh Steelers",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Daniel Thomas",
+    "team": "Cleveland Browns",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Jake Hummel",
+    "team": "Houston Texans",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Chase Young",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Gennings Dunker",
+    "team": "Pittsburgh Steelers",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Cam Skattebo",
+    "team": "New York Giants",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T09:33:18+00:00",
+    "player": "Chance Campbell",
+    "team": "Philadelphia Eagles",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-02T00:36:56+00:00",
     "player": "Mack Wilson Sr.",
     "team": "Arizona Cardinals",
@@ -3393,110 +3498,5 @@
     "team": "Seattle Seahawks",
     "from": "Out",
     "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Josiah Trotter",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Rueben Bain Jr.",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Fernando Carmona",
-    "team": "Tennessee Titans",
-    "from": "Doubtful",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Jackson Slater",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Frankie Luvu",
-    "team": "Washington Commanders",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Nick Cross",
-    "team": "Washington Commanders",
-    "from": "Out",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Sam Cosmi",
-    "team": "Washington Commanders",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Jayden Daniels",
-    "team": "Washington Commanders",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Chig Okonkwo",
-    "team": "Washington Commanders",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Samaje Perine",
-    "team": "Cincinnati Bengals",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "KaVontae Turpin",
-    "team": "Dallas Cowboys",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Jonathan Mingo",
-    "team": "Dallas Cowboys",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Blake Cashman",
-    "team": "Minnesota Vikings",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Odell Beckham Jr.",
-    "team": "New York Giants",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-29T19:53:43+00:00",
-    "player": "Blake Grupe",
-    "team": "New York Jets",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
