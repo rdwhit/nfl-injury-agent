@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-03T16:01:42+00:00",
+    "player": "Nick Westbrook-Ikhine",
+    "team": "Indianapolis Colts",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-03T16:01:42+00:00",
+    "player": "Keenan Allen",
+    "team": "Indianapolis Colts",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-03T16:01:42+00:00",
+    "player": "Carlos Washington Jr.",
+    "team": "Miami Dolphins",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-03T16:01:42+00:00",
+    "player": "Terry McLaurin",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-03T16:01:42+00:00",
+    "player": "Cam Taylor-Britt",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-03T16:01:42+00:00",
+    "player": "Jalen Tolbert",
+    "team": "Miami Dolphins",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-03T11:24:59+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3455,48 +3497,6 @@
     "player": "Eric Wilson",
     "team": "Minnesota Vikings",
     "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "Kyle Van Noy",
-    "team": "Minnesota Vikings",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "DeMario Douglas",
-    "team": "New England Patriots",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "Devaughn Vele",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "Malachi Fields",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "Najee Harris",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "Isaiah Williams",
-    "team": "New York Jets",
-    "from": "Cleared",
     "to": "Active"
   }
 ]
