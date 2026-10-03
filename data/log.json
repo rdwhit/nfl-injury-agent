@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-03T11:24:59+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
     "ts": "2026-10-03T04:46:23+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3489,13 +3496,6 @@
     "ts": "2026-09-30T09:30:30+00:00",
     "player": "Isaiah Williams",
     "team": "New York Jets",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-09-30T09:30:30+00:00",
-    "player": "T.J. Watt",
-    "team": "Pittsburgh Steelers",
     "from": "Cleared",
     "to": "Active"
   }
