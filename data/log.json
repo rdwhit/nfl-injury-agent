@@ -1,5 +1,68 @@
 [
   {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Sam Franklin Jr.",
+    "team": "Buffalo Bills",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Ashton Dulin",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Mo Alie-Cox",
+    "team": "Indianapolis Colts",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Josaiah Stewart",
+    "team": "Los Angeles Rams",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Jacob Parrish",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Terry McLaurin",
+    "team": "Washington Commanders",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Alaric Jackson",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-04T12:05:56+00:00",
+    "player": "Anthony Nelson",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-04T05:18:30+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3433,69 +3496,6 @@
     "ts": "2026-09-30T22:04:41+00:00",
     "player": "A.J. Haulcy",
     "team": "Indianapolis Colts",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Tanner Koziol",
-    "team": "Jacksonville Jaguars",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "B.J. Green II",
-    "team": "Jacksonville Jaguars",
-    "from": "Injured Reserve",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Quentin Lake",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Carlton Davis III",
-    "team": "New England Patriots",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Kyle Williams",
-    "team": "New England Patriots",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Tremaine Edmunds",
-    "team": "New York Giants",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Tykee Smith",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Elijah Simmons",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "DeMonte Capehart",
-    "team": "Tampa Bay Buccaneers",
     "from": "Active",
     "to": "Cleared"
   }
