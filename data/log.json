@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Wade Woodaz",
+    "team": "Houston Texans",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Alex Bachman",
+    "team": "Los Angeles Rams",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Jake Haener",
+    "team": "New York Giants",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Xavier Hutchinson",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Ronnie Rivers",
+    "team": "Los Angeles Rams",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-04T05:18:30+00:00",
+    "player": "Malik Nabers",
+    "team": "New York Giants",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-03T23:40:35+00:00",
     "player": "Ja'seem Reed",
     "team": "Carolina Panthers",
@@ -3449,54 +3498,5 @@
     "team": "Tampa Bay Buccaneers",
     "from": "Active",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Brandon Coleman",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Jeremy Reaves",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Tyler Owens",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Colson Yankoff",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Jager Burton",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T22:04:41+00:00",
-    "player": "Andre James",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-09-30T17:52:34+00:00",
-    "player": "David Moore",
-    "team": "Carolina Panthers",
-    "from": "Cleared",
-    "to": "Active"
   }
 ]
