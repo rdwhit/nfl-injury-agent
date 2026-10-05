@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-05T14:11:01+00:00",
+    "player": "Pat Surtain II",
+    "team": "Denver Broncos",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-05T14:11:01+00:00",
+    "player": "Kyle Juszczyk",
+    "team": "San Francisco 49ers",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
     "ts": "2026-10-05T05:01:48+00:00",
     "player": "Durham Smythe",
     "team": "Baltimore Ravens",
@@ -3484,19 +3498,5 @@
     "team": "Los Angeles Rams",
     "from": "Questionable",
     "to": "Active"
-  },
-  {
-    "ts": "2026-10-02T22:01:19+00:00",
-    "player": "Nate Landman",
-    "team": "Los Angeles Rams",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-02T22:01:19+00:00",
-    "player": "Terrance Ferguson",
-    "team": "Los Angeles Rams",
-    "from": "Doubtful",
-    "to": "Injured Reserve"
   }
 ]
