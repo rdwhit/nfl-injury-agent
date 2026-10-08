@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-10-08T18:42:01+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-08T18:42:01+00:00",
+    "player": "Elgton Jenkins",
+    "team": "Cleveland Browns",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-08T18:42:01+00:00",
+    "player": "Michael Pittman Jr.",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
     "ts": "2026-10-08T10:16:54+00:00",
     "player": "C.J. Henderson",
     "team": "Atlanta Falcons",
@@ -3477,26 +3498,5 @@
     "team": "San Francisco 49ers",
     "from": "Active",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-06T05:49:17+00:00",
-    "player": "Easton Stick",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-05T21:55:07+00:00",
-    "player": "Paris Johnson Jr.",
-    "team": "Arizona Cardinals",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-05T21:55:07+00:00",
-    "player": "Josh Fryar",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
   }
 ]
