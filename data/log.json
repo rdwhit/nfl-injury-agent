@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-10-09T10:17:49+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-09T10:17:49+00:00",
+    "player": "Tyler Guyton",
+    "team": "Dallas Cowboys",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-09T10:17:49+00:00",
+    "player": "CeeDee Lamb",
+    "team": "Dallas Cowboys",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-09T10:17:49+00:00",
+    "player": "Alijah Clark",
+    "team": "Dallas Cowboys",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-09T10:17:49+00:00",
+    "player": "Tyler Goodson",
+    "team": "Dallas Cowboys",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-09T01:05:34+00:00",
     "player": "Walter Nolen III",
     "team": "Arizona Cardinals",
@@ -3463,40 +3498,5 @@
     "team": "Seattle Seahawks",
     "from": "Active",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-06T20:06:35+00:00",
-    "player": "Yaya Diaby",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-06T05:49:17+00:00",
-    "player": "Elijah Higgins",
-    "team": "Arizona Cardinals",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-06T05:49:17+00:00",
-    "player": "Jeremiyah Love",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-06T05:49:17+00:00",
-    "player": "Jared Ivey",
-    "team": "Atlanta Falcons",
-    "from": "Available",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-06T05:49:17+00:00",
-    "player": "Jake Matthews",
-    "team": "Atlanta Falcons",
-    "from": "Available",
-    "to": "Questionable"
   }
 ]
