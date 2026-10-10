@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Carson Steele",
+    "team": "Philadelphia Eagles",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Mykel Williams",
+    "team": "San Francisco 49ers",
+    "from": "Cleared",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Rakeem Nunez-Roches",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Brandin Cooks",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Easton Stick",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-10T09:37:55+00:00",
+    "player": "Uar Bernard",
+    "team": "Philadelphia Eagles",
+    "from": "Out",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-10T00:38:55+00:00",
     "player": "Dadrion Taylor-Demerson",
     "team": "Arizona Cardinals",
@@ -3449,54 +3498,5 @@
     "team": "New York Jets",
     "from": "Injured Reserve",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Cor'Dale Flott",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Cam Jurgens",
-    "team": "Philadelphia Eagles",
-    "from": "Questionable",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-07T10:03:16+00:00",
-    "player": "Budda Baker",
-    "team": "Arizona Cardinals",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-07T10:03:16+00:00",
-    "player": "Trenton Simpson",
-    "team": "Baltimore Ravens",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-07T10:03:16+00:00",
-    "player": "Akayleb Evans",
-    "team": "Carolina Panthers",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-07T10:03:16+00:00",
-    "player": "Barrett Carter",
-    "team": "Cincinnati Bengals",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-07T10:03:16+00:00",
-    "player": "Caleb Downs",
-    "team": "Dallas Cowboys",
-    "from": "Cleared",
-    "to": "Active"
   }
 ]
