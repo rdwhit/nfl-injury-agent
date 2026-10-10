@@ -1,5 +1,68 @@
 [
   {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Marvin Harrison Jr.",
+    "team": "Arizona Cardinals",
+    "from": "Active",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Joshua Palmer",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Landon Jackson",
+    "team": "Buffalo Bills",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Arden Key",
+    "team": "Indianapolis Colts",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Darius Slayton",
+    "team": "Indianapolis Colts",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Christen Miller",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Yahya Black",
+    "team": "Pittsburgh Steelers",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Chris Boswell",
+    "team": "Pittsburgh Steelers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-10T17:12:00+00:00",
+    "player": "Joe Andreessen",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-10T09:37:55+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3435,68 +3498,5 @@
     "team": "Philadelphia Eagles",
     "from": "Available",
     "to": "Active"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Marques Sigle",
-    "team": "San Francisco 49ers",
-    "from": "Doubtful",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Upton Stout",
-    "team": "San Francisco 49ers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Kyle Juszczyk",
-    "team": "San Francisco 49ers",
-    "from": "Doubtful",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Chase McLaughlin",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "SirVocea Dennis",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Benjamin Morrison",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Amani Hooker",
-    "team": "Tennessee Titans",
-    "from": "Cleared",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "Stefon Diggs",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-07T18:43:43+00:00",
-    "player": "David Onyemata",
-    "team": "New York Jets",
-    "from": "Injured Reserve",
-    "to": "Cleared"
   }
 ]
