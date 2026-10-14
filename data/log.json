@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Reggie Virgil",
+    "team": "Arizona Cardinals",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Jalen Brooks",
+    "team": "Arizona Cardinals",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Braden Smith",
+    "team": "Houston Texans",
+    "from": "Injured Reserve",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Adonai Mitchell",
+    "team": "New York Jets",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Out",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Josh Fryar",
+    "team": "Arizona Cardinals",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-14T16:55:17+00:00",
+    "player": "Elijah Higgins",
+    "team": "Arizona Cardinals",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-14T11:32:50+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3449,54 +3498,5 @@
     "team": "Green Bay Packers",
     "from": "Cleared",
     "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "Javon Hargrave",
-    "team": "Green Bay Packers",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "Woody Marks",
-    "team": "Houston Texans",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "C.J. Stroud",
-    "team": "Houston Texans",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "Nico Collins",
-    "team": "Houston Texans",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "Jalen Pitre",
-    "team": "Houston Texans",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "David Montgomery",
-    "team": "Houston Texans",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "Bud Dupree",
-    "team": "Los Angeles Chargers",
-    "from": "Available",
-    "to": "Questionable"
   }
 ]
