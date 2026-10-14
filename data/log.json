@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-14T11:32:50+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
     "ts": "2026-10-14T04:22:42+00:00",
     "player": "Jahan Dotson",
     "team": "Atlanta Falcons",
@@ -3490,13 +3497,6 @@
     "player": "Bud Dupree",
     "team": "Los Angeles Chargers",
     "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-12T00:22:12+00:00",
-    "player": "Tre' Harris",
-    "team": "Los Angeles Chargers",
-    "from": "Active",
     "to": "Questionable"
   }
 ]
