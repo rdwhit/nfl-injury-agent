@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-15T16:42:01+00:00",
+    "player": "Jordan Mason",
+    "team": "Minnesota Vikings",
+    "from": "Available",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-15T16:42:01+00:00",
+    "player": "Antoine Winfield Jr.",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-15T16:42:01+00:00",
+    "player": "Nick Cross",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-15T16:42:01+00:00",
+    "player": "Zemaiah Vaughn",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-15T04:04:55+00:00",
     "player": "Wydett Williams Jr.",
     "team": "Arizona Cardinals",
@@ -3469,34 +3497,6 @@
     "player": "Dalton Johnson",
     "team": "Las Vegas Raiders",
     "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T21:08:00+00:00",
-    "player": "Tristin McCollum",
-    "team": "Las Vegas Raiders",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T21:08:00+00:00",
-    "player": "JJ Pegues",
-    "team": "Las Vegas Raiders",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T21:08:00+00:00",
-    "player": "Matt Gay",
-    "team": "Las Vegas Raiders",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-12T21:08:00+00:00",
-    "player": "Cameron Dicker",
-    "team": "Los Angeles Chargers",
-    "from": "Cleared",
     "to": "Active"
   }
 ]
