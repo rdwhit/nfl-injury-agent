@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-16T11:05:33+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-16T11:05:33+00:00",
+    "player": "Elijah Arroyo",
+    "team": "Seattle Seahawks",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
     "ts": "2026-10-16T04:01:05+00:00",
     "player": "Spencer Brown",
     "team": "Buffalo Bills",
@@ -3482,20 +3496,6 @@
     "ts": "2026-10-13T06:21:57+00:00",
     "player": "Najee Harris",
     "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Jaquan Brisker",
-    "team": "Pittsburgh Steelers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Patrick Queen",
-    "team": "Pittsburgh Steelers",
     "from": "Cleared",
     "to": "Active"
   }
