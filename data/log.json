@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "DJ Giddens",
+    "team": "Indianapolis Colts",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "Adonai Mitchell",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "Breece Hall",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "Joseph Ossai",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "Dylan Parham",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "Kevin Winston Jr.",
+    "team": "Tennessee Titans",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-16T16:24:45+00:00",
+    "player": "Darius Slayton",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-16T11:05:33+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3449,54 +3498,5 @@
     "team": "Los Angeles Rams",
     "from": "Available",
     "to": "Out"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Bill Murray",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "CJ Daniels",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Greg Dulcich",
-    "team": "Miami Dolphins",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Kyle Van Noy",
-    "team": "Minnesota Vikings",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Zemaiah Vaughn",
-    "team": "Minnesota Vikings",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Kendre Miller",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-13T06:21:57+00:00",
-    "player": "Najee Harris",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
   }
 ]
