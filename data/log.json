@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "Kitan Crawford",
+    "team": "Arizona Cardinals",
+    "from": "Injured Reserve",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "Kaelon Black",
+    "team": "San Francisco 49ers",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "James Thompson Jr.",
+    "team": "San Francisco 49ers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "Colton McKivitz",
+    "team": "San Francisco 49ers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "Marques Sigle",
+    "team": "San Francisco 49ers",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "Nick Bosa",
+    "team": "San Francisco 49ers",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-17T22:58:26+00:00",
+    "player": "Brock Purdy",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-17T20:23:07+00:00",
     "player": "Ja'Kobi Lane",
     "team": "Baltimore Ravens",
@@ -3449,54 +3498,5 @@
     "team": "Tampa Bay Buccaneers",
     "from": "Cleared",
     "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Sean Tucker",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Kevin Winston Jr.",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Marcus Harris",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Cor'Dale Flott",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Tyjae Spears",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Azeez Al-Shaair",
-    "team": "Houston Texans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "Anthony Richardson Sr.",
-    "team": "Indianapolis Colts",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
