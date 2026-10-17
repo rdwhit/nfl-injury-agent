@@ -1,5 +1,61 @@
 [
   {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Kris Abrams-Draine",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Ja'Quan McMillian",
+    "team": "Denver Broncos",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Nick Emmanwori",
+    "team": "Seattle Seahawks",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Ernest Jones IV",
+    "team": "Seattle Seahawks",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Adam Trautman",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Tory Horton",
+    "team": "Seattle Seahawks",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Adam Prentice",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-17T10:25:29+00:00",
+    "player": "Nick Kallerup",
+    "team": "Seattle Seahawks",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-17T03:51:58+00:00",
     "player": "Bam Knight",
     "team": "Arizona Cardinals",
@@ -3441,62 +3497,6 @@
     "player": "Foyesade Oluokun",
     "team": "Jacksonville Jaguars",
     "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Harrison Mevis",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Tucker Addington",
-    "team": "Miami Dolphins",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Deonte Banks",
-    "team": "New York Giants",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Theo Johnson",
-    "team": "New York Giants",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Najee Harris",
-    "team": "New York Giants",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Patrick Queen",
-    "team": "Pittsburgh Steelers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Ernest Jones IV",
-    "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T04:22:42+00:00",
-    "player": "Jaylin Lane",
-    "team": "Washington Commanders",
-    "from": "Injured Reserve",
     "to": "Cleared"
   }
 ]
