@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-18T10:44:21+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
     "ts": "2026-10-18T03:58:08+00:00",
     "player": "Evan Hull",
     "team": "Arizona Cardinals",
@@ -3491,12 +3498,5 @@
     "team": "Atlanta Falcons",
     "from": "Questionable",
     "to": "Active"
-  },
-  {
-    "ts": "2026-10-14T21:28:35+00:00",
-    "player": "AJ Dillon",
-    "team": "Carolina Panthers",
-    "from": "Cleared",
-    "to": "Questionable"
   }
 ]
