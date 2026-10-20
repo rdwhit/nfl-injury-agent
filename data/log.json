@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-20T14:12:55+00:00",
+    "player": "Mike Evans",
+    "team": "San Francisco 49ers",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
     "ts": "2026-10-20T08:21:08+00:00",
     "player": "Walter Nolen III",
     "team": "Arizona Cardinals",
@@ -3490,13 +3497,6 @@
     "player": "Dillon Gabriel",
     "team": "Cleveland Browns",
     "from": "Injured Reserve",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Michael Jerrell",
-    "team": "Atlanta Falcons",
-    "from": "Active",
     "to": "Cleared"
   }
 ]
