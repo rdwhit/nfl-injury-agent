@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-21T16:57:34+00:00",
+    "player": "Sam Franklin Jr.",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Suspended"
+  },
+  {
+    "ts": "2026-10-21T16:57:34+00:00",
+    "player": "Carson Schwesinger",
+    "team": "Cleveland Browns",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-21T16:57:34+00:00",
+    "player": "George Karlaftis",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-21T16:57:34+00:00",
+    "player": "Adonai Mitchell",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-21T16:57:34+00:00",
+    "player": "Greg Rousseau",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-21T16:57:34+00:00",
+    "player": "Chamarri Conner",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-21T04:09:24+00:00",
     "player": "Elijah Higgins",
     "team": "Arizona Cardinals",
@@ -3456,47 +3498,5 @@
     "team": "Arizona Cardinals",
     "from": "Active",
     "to": "Out"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Blake Gillikin",
-    "team": "Arizona Cardinals",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Kendal Daniels",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Billy Bowman Jr.",
-    "team": "Atlanta Falcons",
-    "from": "Cleared",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Avieon Terrell",
-    "team": "Atlanta Falcons",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Divine Deablo",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-18T20:23:54+00:00",
-    "player": "Za'Darius Smith",
-    "team": "Atlanta Falcons",
-    "from": "Questionable",
-    "to": "Active"
   }
 ]
