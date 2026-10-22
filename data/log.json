@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-22T11:30:35+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
     "ts": "2026-10-22T04:09:52+00:00",
     "player": "Budda Baker",
     "team": "Arizona Cardinals",
@@ -3488,13 +3495,6 @@
   {
     "ts": "2026-10-19T20:28:48+00:00",
     "player": "Jerrick Reed II",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-19T20:28:48+00:00",
-    "player": "Carson Beck",
     "team": "Arizona Cardinals",
     "from": "Out",
     "to": "Active"
