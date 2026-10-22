@@ -1,5 +1,61 @@
 [
   {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Jaelan Phillips",
+    "team": "Carolina Panthers",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Brenen Thompson",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Keir Thomas II",
+    "team": "Los Angeles Rams",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Quincy Riley",
+    "team": "New Orleans Saints",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Kiko Mauigoa",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Sebastian Joseph-Day",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Antoine Winfield Jr.",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-22T16:56:47+00:00",
+    "player": "Keagen Trost",
+    "team": "Los Angeles Rams",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-22T11:30:35+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3442,61 +3498,5 @@
     "team": "San Francisco 49ers",
     "from": "Active",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-20T00:11:08+00:00",
-    "player": "Chig Okonkwo",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-20T00:11:08+00:00",
-    "player": "Drew Stevens",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-20T00:11:08+00:00",
-    "player": "Jaylen Watson",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-20T00:11:08+00:00",
-    "player": "Renardo Green",
-    "team": "San Francisco 49ers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-20T00:11:08+00:00",
-    "player": "Grant Stuard",
-    "team": "Los Angeles Rams",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-19T20:28:48+00:00",
-    "player": "Andrew Billings",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-19T20:28:48+00:00",
-    "player": "Starling Thomas V",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-19T20:28:48+00:00",
-    "player": "Jerrick Reed II",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
   }
 ]
