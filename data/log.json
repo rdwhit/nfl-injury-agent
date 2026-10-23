@@ -1,5 +1,96 @@
 [
   {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Zaire Franklin",
+    "team": "Green Bay Packers",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Kaden Elliss",
+    "team": "New Orleans Saints",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Anfernee Jennings",
+    "team": "New Orleans Saints",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Nathan Shepherd",
+    "team": "New Orleans Saints",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Alvin Kamara",
+    "team": "New Orleans Saints",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Joseph Ossai",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Kiko Mauigoa",
+    "team": "New York Jets",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Max Mitchell",
+    "team": "New York Jets",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "T.J. Watt",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Alex Highsmith",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Jalen Ramsey",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-23T16:49:14+00:00",
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
     "ts": "2026-10-23T11:20:09+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3405,97 +3496,6 @@
     "ts": "2026-10-20T19:05:32+00:00",
     "player": "Jermaine Eluemunor",
     "team": "New York Giants",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Tyler Nubin",
-    "team": "New York Giants",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Colton Hood",
-    "team": "New York Giants",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Theo Johnson",
-    "team": "New York Giants",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Nikko Reed",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Joseph Ossai",
-    "team": "New York Jets",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Dylan Parham",
-    "team": "New York Jets",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Adonai Mitchell",
-    "team": "New York Jets",
-    "from": "Out",
-    "to": "Doubtful"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Breece Hall",
-    "team": "New York Jets",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "AJ Epenesa",
-    "team": "Philadelphia Eagles",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Jalyx Hunt",
-    "team": "Philadelphia Eagles",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Saquon Barkley",
-    "team": "Philadelphia Eagles",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Michael Carter II",
-    "team": "Philadelphia Eagles",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Ben Skowronek",
-    "team": "Pittsburgh Steelers",
     "from": "Out",
     "to": "Questionable"
   }
