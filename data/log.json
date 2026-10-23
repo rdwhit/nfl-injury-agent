@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-23T11:20:09+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
     "ts": "2026-10-23T04:13:22+00:00",
     "player": "Jeremiyah Love",
     "team": "Arizona Cardinals",
@@ -3489,13 +3496,6 @@
     "ts": "2026-10-20T19:05:32+00:00",
     "player": "Ben Skowronek",
     "team": "Pittsburgh Steelers",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-20T19:05:32+00:00",
-    "player": "Marques Sigle",
-    "team": "San Francisco 49ers",
     "from": "Out",
     "to": "Questionable"
   }
