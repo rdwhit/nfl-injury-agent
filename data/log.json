@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-24T15:41:49+00:00",
+    "player": "DeShon Elliott",
+    "team": "Pittsburgh Steelers",
+    "from": "Injured Reserve",
+    "to": "Active"
+  },
+  {
     "ts": "2026-10-24T10:39:53+00:00",
     "player": "Sam Roush",
     "team": "Chicago Bears",
@@ -3491,12 +3498,5 @@
     "team": "Houston Texans",
     "from": "Cleared",
     "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-10-21T04:09:24+00:00",
-    "player": "Laquon Treadwell",
-    "team": "Indianapolis Colts",
-    "from": "Cleared",
-    "to": "Active"
   }
 ]
