@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-24T10:39:53+00:00",
+    "player": "Sam Roush",
+    "team": "Chicago Bears",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-24T10:39:53+00:00",
+    "player": "Cam Lewis",
+    "team": "Chicago Bears",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-24T04:05:10+00:00",
     "player": "Wydett Williams Jr.",
     "team": "Arizona Cardinals",
@@ -3482,20 +3496,6 @@
     "ts": "2026-10-21T04:09:24+00:00",
     "player": "Laquon Treadwell",
     "team": "Indianapolis Colts",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-21T04:09:24+00:00",
-    "player": "Mo Alie-Cox",
-    "team": "Indianapolis Colts",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-21T04:09:24+00:00",
-    "player": "Jalen Royals",
-    "team": "Kansas City Chiefs",
     "from": "Cleared",
     "to": "Active"
   }
