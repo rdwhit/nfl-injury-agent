@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-28T12:29:27+00:00",
+    "player": "Jonathan Taylor",
+    "team": "Indianapolis Colts",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-28T12:29:27+00:00",
+    "player": "Rigoberto Sanchez",
+    "team": "Indianapolis Colts",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-28T12:29:27+00:00",
+    "player": "Greg Desrosiers Jr.",
+    "team": "New York Giants",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-28T12:29:27+00:00",
+    "player": "Charlie Jones",
+    "team": "New York Giants",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-28T12:29:27+00:00",
+    "player": "DeForest Buckner",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-28T12:29:27+00:00",
+    "player": "Quenton Nelson",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-28T05:01:27+00:00",
     "player": "Jack Gibbens",
     "team": "Arizona Cardinals",
@@ -3454,48 +3496,6 @@
     "ts": "2026-10-26T04:11:06+00:00",
     "player": "Ernest Jones IV",
     "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-26T04:11:06+00:00",
-    "player": "Cooper Kupp",
-    "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-26T04:11:06+00:00",
-    "player": "Tory Horton",
-    "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-26T04:11:06+00:00",
-    "player": "Brandon Pili",
-    "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-26T04:11:06+00:00",
-    "player": "Luke Haggard",
-    "team": "Tampa Bay Buccaneers",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-26T04:11:06+00:00",
-    "player": "Tyler Conklin",
-    "team": "Detroit Lions",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-26T04:11:06+00:00",
-    "player": "Sai'vion Jones",
-    "team": "Denver Broncos",
     "from": "Active",
     "to": "Cleared"
   }
