@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Olaivavega Ioane",
+    "team": "Baltimore Ravens",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Keisean Nixon",
+    "team": "Green Bay Packers",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Jake Elliott",
+    "team": "Philadelphia Eagles",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Joshua Williams",
+    "team": "Tennessee Titans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Tyrique Stevenson Sr.",
+    "team": "Chicago Bears",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Britain Covey",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T18:18:28+00:00",
+    "player": "Jordon Riley",
+    "team": "Green Bay Packers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-29T09:41:42+00:00",
     "player": "Adam Randall",
     "team": "Baltimore Ravens",
@@ -3447,55 +3496,6 @@
     "ts": "2026-10-27T00:17:50+00:00",
     "player": "Kendre Miller",
     "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Barion Brown",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Kayvon Thibodeaux",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Jakorian Bennett",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Jalyx Hunt",
-    "team": "Philadelphia Eagles",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Jonathan Greenard",
-    "team": "Philadelphia Eagles",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Cole Payton",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Dameon Pierce",
-    "team": "Philadelphia Eagles",
     "from": "Cleared",
     "to": "Active"
   }
