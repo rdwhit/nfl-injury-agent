@@ -1,5 +1,110 @@
 [
   {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Adam Randall",
+    "team": "Baltimore Ravens",
+    "from": "Available",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Tytus Howard",
+    "team": "Cleveland Browns",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Omarr Norman-Lott",
+    "team": "Kansas City Chiefs",
+    "from": "Available",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Denzel Perryman",
+    "team": "Los Angeles Chargers",
+    "from": "Cleared",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Josh Hayes",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Cleared",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Jonah Laulu",
+    "team": "Tennessee Titans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Laremy Tunsil",
+    "team": "Washington Commanders",
+    "from": "Available",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Quinshon Judkins",
+    "team": "Cleveland Browns",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Percy Butler",
+    "team": "Washington Commanders",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "K'Von Wallace",
+    "team": "Baltimore Ravens",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Keionte Scott",
+    "team": "Tampa Bay Buccaneers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Alec Ingold",
+    "team": "Los Angeles Chargers",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "Joshua Williams",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-29T09:41:42+00:00",
+    "player": "George Karlaftis",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-29T00:41:46+00:00",
     "player": "Tyler Allgeier",
     "team": "Arizona Cardinals",
@@ -3393,110 +3498,5 @@
     "team": "Philadelphia Eagles",
     "from": "Cleared",
     "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Lane Johnson",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Jake Majors",
-    "team": "Philadelphia Eagles",
-    "from": "Available",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Saquon Barkley",
-    "team": "Philadelphia Eagles",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Elijah Mitchell",
-    "team": "Philadelphia Eagles",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Germie Bernard",
-    "team": "Pittsburgh Steelers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Darnell Washington",
-    "team": "Pittsburgh Steelers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Jordan James",
-    "team": "San Francisco 49ers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Upton Stout",
-    "team": "San Francisco 49ers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Demarcus Robinson",
-    "team": "San Francisco 49ers",
-    "from": "Cleared",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "De'Zhaun Stribling",
-    "team": "San Francisco 49ers",
-    "from": "Available",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Christian McCaffrey",
-    "team": "San Francisco 49ers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Marcus Harris",
-    "team": "Tennessee Titans",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Cor'Dale Flott",
-    "team": "Tennessee Titans",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Zachariah Branch",
-    "team": "Atlanta Falcons",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-27T00:17:50+00:00",
-    "player": "Seth McGowan",
-    "team": "Indianapolis Colts",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
