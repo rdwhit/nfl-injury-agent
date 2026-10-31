@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-31T11:58:37+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Injured Reserve",
+    "to": "Out"
+  },
+  {
     "ts": "2026-10-31T04:57:38+00:00",
     "player": "Anterio Thompson",
     "team": "Atlanta Falcons",
@@ -3488,13 +3495,6 @@
   {
     "ts": "2026-10-28T05:01:27+00:00",
     "player": "Elijah Moore",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Darius Cooper",
     "team": "Philadelphia Eagles",
     "from": "Cleared",
     "to": "Active"
