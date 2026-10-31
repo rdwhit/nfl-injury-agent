@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-31T17:12:32+00:00",
+    "player": "Kyle Monangai",
+    "team": "Chicago Bears",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T17:12:32+00:00",
+    "player": "A.J. Brown",
+    "team": "New England Patriots",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
     "ts": "2026-10-31T11:58:37+00:00",
     "player": "Anthony Johnson Jr.",
     "team": "Chicago Bears",
@@ -3481,20 +3495,6 @@
   {
     "ts": "2026-10-28T05:01:27+00:00",
     "player": "Cooper DeJean",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Zack Baun",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Elijah Moore",
     "team": "Philadelphia Eagles",
     "from": "Cleared",
     "to": "Active"
