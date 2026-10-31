@@ -1,5 +1,159 @@
 [
   {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Billy Bowman Jr.",
+    "team": "Atlanta Falcons",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Divine Deablo",
+    "team": "Atlanta Falcons",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "T.J. Tampa",
+    "team": "Baltimore Ravens",
+    "from": "Injured Reserve",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Te'Cory Couch",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Anthony Johnson Jr.",
+    "team": "Chicago Bears",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Colston Loveland",
+    "team": "Chicago Bears",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Tytus Howard",
+    "team": "Cleveland Browns",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "P.J. Locke",
+    "team": "Dallas Cowboys",
+    "from": "Injured Reserve",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "RJ Harvey",
+    "team": "Denver Broncos",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "L'Jarius Sneed",
+    "team": "Kansas City Chiefs",
+    "from": "Questionable",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Mansoor Delane",
+    "team": "Kansas City Chiefs",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Jack Bech",
+    "team": "Las Vegas Raiders",
+    "from": "Injured Reserve",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Patrick Johnson",
+    "team": "Las Vegas Raiders",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Derwin James Jr.",
+    "team": "Los Angeles Chargers",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "TreVeyon Henderson",
+    "team": "New England Patriots",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "T'Vondre Sweat",
+    "team": "New York Jets",
+    "from": "Out",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Velus Jones Jr.",
+    "team": "Seattle Seahawks",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Uchenna Nwosu",
+    "team": "Seattle Seahawks",
+    "from": "Questionable",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Charles Cross",
+    "team": "Seattle Seahawks",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Rashid Shaheed",
+    "team": "Seattle Seahawks",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Zach Charbonnet",
+    "team": "Seattle Seahawks",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-10-31T21:15:20+00:00",
+    "player": "Khalil Shakir",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-31T17:12:32+00:00",
     "player": "Kyle Monangai",
     "team": "Chicago Bears",
@@ -3342,160 +3496,6 @@
     "ts": "2026-10-28T05:01:27+00:00",
     "player": "Evan Williams",
     "team": "Green Bay Packers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Isaiah McDuffie",
-    "team": "Green Bay Packers",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Xavier McKinney",
-    "team": "Green Bay Packers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "M.J. Stewart",
-    "team": "Houston Texans",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Akeem Davis-Gaither",
-    "team": "Indianapolis Colts",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Adetomiwa Adebawore",
-    "team": "Indianapolis Colts",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "A.J. Haulcy",
-    "team": "Indianapolis Colts",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Chamarri Conner",
-    "team": "Kansas City Chiefs",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Nohl Williams",
-    "team": "Kansas City Chiefs",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Drue Tranquill",
-    "team": "Kansas City Chiefs",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Jeremy Chinn",
-    "team": "Las Vegas Raiders",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Nakobe Dean",
-    "team": "Las Vegas Raiders",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Jacob Rodriguez",
-    "team": "Miami Dolphins",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Jordyn Brooks",
-    "team": "Miami Dolphins",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Harrison Smith",
-    "team": "Minnesota Vikings",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Carl Granderson",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Pete Werner",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Jonas Sanker",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Arvell Reese",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Micah McFadden",
-    "team": "New York Giants",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Demario Davis",
-    "team": "New York Jets",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Minkah Fitzpatrick",
-    "team": "New York Jets",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-10-28T05:01:27+00:00",
-    "player": "Cooper DeJean",
-    "team": "Philadelphia Eagles",
     "from": "Cleared",
     "to": "Active"
   }
