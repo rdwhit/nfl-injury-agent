@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-11-04T14:07:26+00:00",
+    "player": "Tyler Huntley",
+    "team": "Baltimore Ravens",
+    "from": "Doubtful",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-11-04T14:07:26+00:00",
+    "player": "Eric Wilson",
+    "team": "Minnesota Vikings",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-04T14:07:26+00:00",
+    "player": "Andrew Van Ginkel",
+    "team": "Minnesota Vikings",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-04T14:07:26+00:00",
+    "player": "Myles Price",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-04T14:07:26+00:00",
+    "player": "Harrison Smith",
+    "team": "Minnesota Vikings",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-04T05:43:44+00:00",
     "player": "Elijah Higgins",
     "team": "Arizona Cardinals",
@@ -3461,41 +3496,6 @@
     "ts": "2026-11-02T00:28:09+00:00",
     "player": "Trey McBride",
     "team": "Arizona Cardinals",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-02T00:28:09+00:00",
-    "player": "Michael Wilson",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-02T00:28:09+00:00",
-    "player": "Jayden Williams",
-    "team": "Arizona Cardinals",
-    "from": "Available",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-02T00:28:09+00:00",
-    "player": "Bam Knight",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-02T00:28:09+00:00",
-    "player": "Kendrick Bourne",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-02T00:28:09+00:00",
-    "player": "Bijan Robinson",
-    "team": "Atlanta Falcons",
     "from": "Cleared",
     "to": "Active"
   }
