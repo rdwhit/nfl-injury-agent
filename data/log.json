@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-11-06T14:07:22+00:00",
+    "player": "Brian Robinson Jr.",
+    "team": "Atlanta Falcons",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-11-06T14:07:22+00:00",
+    "player": "James Pearce Jr.",
+    "team": "Atlanta Falcons",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
     "ts": "2026-11-06T05:57:22+00:00",
     "player": "Max Melton",
     "team": "Arizona Cardinals",
@@ -3483,20 +3497,6 @@
     "player": "C.J. Gardner-Johnson",
     "team": "Buffalo Bills",
     "from": "Suspended",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-03T06:04:52+00:00",
-    "player": "Tyler Bass",
-    "team": "Buffalo Bills",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-03T06:04:52+00:00",
-    "player": "Keon Coleman",
-    "team": "Buffalo Bills",
-    "from": "Cleared",
     "to": "Active"
   }
 ]
