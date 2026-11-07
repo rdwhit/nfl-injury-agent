@@ -1,5 +1,82 @@
 [
   {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Matt Hibner",
+    "team": "Baltimore Ravens",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Ja'Kobi Lane",
+    "team": "Baltimore Ravens",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Tanner Koziol",
+    "team": "Jacksonville Jaguars",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Gabe Jacas",
+    "team": "New England Patriots",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Jalen Carter",
+    "team": "Philadelphia Eagles",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Tyrice Knight",
+    "team": "Seattle Seahawks",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "DaVon Hamilton",
+    "team": "Jacksonville Jaguars",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Velus Jones Jr.",
+    "team": "Seattle Seahawks",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Dameon Pierce",
+    "team": "Philadelphia Eagles",
+    "from": "Questionable",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "John Jenkins",
+    "team": "Baltimore Ravens",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-07T09:48:59+00:00",
+    "player": "Austin Reed",
+    "team": "Baltimore Ravens",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-07T00:46:44+00:00",
     "player": "Michael Wilson",
     "team": "Arizona Cardinals",
@@ -3421,82 +3498,5 @@
     "team": "Minnesota Vikings",
     "from": "Cleared",
     "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Byron Murphy Jr.",
-    "team": "Minnesota Vikings",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Efton Chism III",
-    "team": "New England Patriots",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Charlie Smyth",
-    "team": "New Orleans Saints",
-    "from": "Available",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Audric Estime",
-    "team": "New Orleans Saints",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Jack Heflin",
-    "team": "New York Jets",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Elijah Moore",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Hollywood Brown",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Darius Cooper",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Ernest Jones IV",
-    "team": "Seattle Seahawks",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Robert Henry Jr.",
-    "team": "Washington Commanders",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-04T05:43:44+00:00",
-    "player": "Hjalte Froholdt",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
