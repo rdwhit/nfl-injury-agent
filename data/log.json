@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-11-12T17:28:27+00:00",
+    "player": "Tyler Onyedim",
+    "team": "Denver Broncos",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-12T17:28:27+00:00",
+    "player": "Josh Jacobs",
+    "team": "Green Bay Packers",
+    "from": "Out",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-12T17:28:27+00:00",
+    "player": "Donte Jackson",
+    "team": "Los Angeles Chargers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-12T06:43:37+00:00",
     "player": "Budda Baker",
     "team": "Arizona Cardinals",
@@ -3476,27 +3497,6 @@
     "player": "James Williams Sr.",
     "team": "Tennessee Titans",
     "from": "Injured Reserve",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-10T06:49:23+00:00",
-    "player": "Dorian Mausi",
-    "team": "Tennessee Titans",
-    "from": "Active",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-11-10T06:49:23+00:00",
-    "player": "Chig Okonkwo",
-    "team": "Washington Commanders",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-10T06:49:23+00:00",
-    "player": "Shy Tuttle",
-    "team": "Washington Commanders",
-    "from": "Active",
     "to": "Questionable"
   }
 ]
