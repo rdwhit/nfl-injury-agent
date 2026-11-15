@@ -1,5 +1,75 @@
 [
   {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Dare Ogunbowale",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Max Mitchell",
+    "team": "New York Jets",
+    "from": "Cleared",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Isaiah Oliver",
+    "team": "Tennessee Titans",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Chandler Zavala",
+    "team": "Tennessee Titans",
+    "from": "Available",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Thomas Morstead",
+    "team": "Tennessee Titans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Nico Collins",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Wan'Dale Robinson",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Gunnar Helm",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Cam Ward",
+    "team": "Tennessee Titans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-15T10:35:50+00:00",
+    "player": "Kohl Levao",
+    "team": "New York Jets",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-15T00:55:04+00:00",
     "player": "Zay Jones",
     "team": "Arizona Cardinals",
@@ -3426,76 +3496,6 @@
     "ts": "2026-11-12T06:43:37+00:00",
     "player": "Harrison Phillips",
     "team": "New York Jets",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Jeremiah Trotter Jr.",
-    "team": "Philadelphia Eagles",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Brandin Echols",
-    "team": "Pittsburgh Steelers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Doneiko Slaughter",
-    "team": "Pittsburgh Steelers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "DeShon Elliott",
-    "team": "Pittsburgh Steelers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Ben Skowronek",
-    "team": "Pittsburgh Steelers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Derrick Harmon",
-    "team": "Pittsburgh Steelers",
-    "from": "Cleared",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Jaden Dugger",
-    "team": "San Francisco 49ers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Dre Greenlaw",
-    "team": "San Francisco 49ers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Fred Warner",
-    "team": "San Francisco 49ers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-12T06:43:37+00:00",
-    "player": "Upton Stout",
-    "team": "San Francisco 49ers",
     "from": "Active",
     "to": "Questionable"
   }
