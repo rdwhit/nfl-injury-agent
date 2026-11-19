@@ -1,5 +1,68 @@
 [
   {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Marlon Humphrey",
+    "team": "Baltimore Ravens",
+    "from": "Cleared",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Talanoa Hufanga",
+    "team": "Denver Broncos",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Charlie Heck",
+    "team": "Indianapolis Colts",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Nick Herbig",
+    "team": "Pittsburgh Steelers",
+    "from": "Doubtful",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Christian Kirk",
+    "team": "San Francisco 49ers",
+    "from": "Cleared",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Lucas Patrick",
+    "team": "Washington Commanders",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Christian McCaffrey",
+    "team": "San Francisco 49ers",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Mo Alie-Cox",
+    "team": "Indianapolis Colts",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-19T20:19:41+00:00",
+    "player": "Ryan Neuzil",
+    "team": "Baltimore Ravens",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-19T11:22:11+00:00",
     "player": "Budda Baker",
     "team": "Arizona Cardinals",
@@ -3435,68 +3498,5 @@
     "team": "Buffalo Bills",
     "from": "Active",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Devin Culp",
-    "team": "Minnesota Vikings",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Deven Eastern",
-    "team": "Seattle Seahawks",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Jordan Burch",
-    "team": "Arizona Cardinals",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Andrew Wingard",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Eku Leota",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Starling Thomas V",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Joey Aguilar",
-    "team": "Arizona Cardinals",
-    "from": "Out",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Austin Hooper",
-    "team": "Atlanta Falcons",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-16T21:50:58+00:00",
-    "player": "Drake London",
-    "team": "Atlanta Falcons",
-    "from": "Questionable",
-    "to": "Active"
   }
 ]
