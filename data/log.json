@@ -1,5 +1,117 @@
 [
   {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Marlin Klein",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Tank Dell",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Nico Collins",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Keylan Rutledge",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Kayshon Boutte",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Trent Brown",
+    "team": "Houston Texans",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Sheldon Rankins",
+    "team": "Houston Texans",
+    "from": "Available",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Chris Braswell",
+    "team": "Houston Texans",
+    "from": "Out",
+    "to": "Doubtful"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Seth McGowan",
+    "team": "Indianapolis Colts",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Will Anderson Jr.",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Azeez Al-Shaair",
+    "team": "Houston Texans",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Ka'imi Fairbairn",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Henry To'oTo'o",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Dare Ogunbowale",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-20T11:10:23+00:00",
+    "player": "Jake Hansen",
+    "team": "Houston Texans",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-20T02:09:50+00:00",
     "player": "Walter Nolen III",
     "team": "Arizona Cardinals",
@@ -3384,118 +3496,6 @@
     "ts": "2026-11-17T07:26:58+00:00",
     "player": "Cam Little",
     "team": "Jacksonville Jaguars",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Travis Hunter",
-    "team": "Jacksonville Jaguars",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Noah Gray",
-    "team": "Kansas City Chiefs",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Justin Fields",
-    "team": "Kansas City Chiefs",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Matt Gay",
-    "team": "Las Vegas Raiders",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Quentin Johnston",
-    "team": "Los Angeles Chargers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Omarion Hampton",
-    "team": "Los Angeles Chargers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Rodney Shelley",
-    "team": "Los Angeles Chargers",
-    "from": "Active",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Brenen Thompson",
-    "team": "Los Angeles Chargers",
-    "from": "Doubtful",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Kayode Awosika",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Justin Eboigbe",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Bud Dupree",
-    "team": "Los Angeles Chargers",
-    "from": "Cleared",
-    "to": "Out"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Denzel Perryman",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "David Njoku",
-    "team": "Los Angeles Chargers",
-    "from": "Questionable",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Tutu Atwell",
-    "team": "Los Angeles Rams",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Ronnie Rivers",
-    "team": "Los Angeles Rams",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-17T07:26:58+00:00",
-    "player": "Brandon McManus",
-    "team": "Los Angeles Rams",
     "from": "Cleared",
     "to": "Active"
   }
