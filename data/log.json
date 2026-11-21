@@ -1,5 +1,61 @@
 [
   {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Ed Oliver",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Oren Burks",
+    "team": "Cincinnati Bengals",
+    "from": "Questionable",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Dalton Risner",
+    "team": "Cincinnati Bengals",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Darrell Baker Jr.",
+    "team": "Miami Dolphins",
+    "from": "Out",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Nick Herbig",
+    "team": "Pittsburgh Steelers",
+    "from": "Questionable",
+    "to": "Out"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Tyjae Spears",
+    "team": "Tennessee Titans",
+    "from": "Questionable",
+    "to": "Injured Reserve"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "Tony Adams",
+    "team": "Tennessee Titans",
+    "from": "Questionable",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-21T18:56:39+00:00",
+    "player": "James Cook III",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-21T10:49:17+00:00",
     "player": "Henry To'oTo'o",
     "team": "Houston Texans",
@@ -3442,61 +3498,5 @@
     "team": "Tampa Bay Buccaneers",
     "from": "Cleared",
     "to": "Active"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Wan'Dale Robinson",
-    "team": "Tennessee Titans",
-    "from": "Questionable",
-    "to": "Injured Reserve"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Budda Baker",
-    "team": "Arizona Cardinals",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Chris Moore",
-    "team": "Baltimore Ravens",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Caleb Downs",
-    "team": "Dallas Cowboys",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Trent Brown",
-    "team": "Houston Texans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Nikko Remigio",
-    "team": "Houston Texans",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Jordyn Brooks",
-    "team": "Miami Dolphins",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T02:47:51+00:00",
-    "player": "Jacob Rodriguez",
-    "team": "Miami Dolphins",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
