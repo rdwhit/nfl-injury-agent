@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-11-22T10:57:26+00:00",
+    "player": "Cody Schrader",
+    "team": "Denver Broncos",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-22T10:57:26+00:00",
+    "player": "Taylor Rapp",
+    "team": "Denver Broncos",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-22T10:57:26+00:00",
+    "player": "Gavin Ortega",
+    "team": "Denver Broncos",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-22T10:57:26+00:00",
+    "player": "Eyioma Uwazurike",
+    "team": "Denver Broncos",
+    "from": "Injured Reserve",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-22T01:05:19+00:00",
     "player": "Zay Jones",
     "team": "Arizona Cardinals",
@@ -3470,33 +3498,5 @@
     "team": "San Francisco 49ers",
     "from": "Cleared",
     "to": "Active"
-  },
-  {
-    "ts": "2026-11-18T11:24:09+00:00",
-    "player": "Demarcus Robinson",
-    "team": "San Francisco 49ers",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-18T11:24:09+00:00",
-    "player": "Cedric Johnson",
-    "team": "Cincinnati Bengals",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T11:24:09+00:00",
-    "player": "DeMarvion Overshown",
-    "team": "Dallas Cowboys",
-    "from": "Active",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-18T11:24:09+00:00",
-    "player": "Aidan O'Connell",
-    "team": "Las Vegas Raiders",
-    "from": "Active",
-    "to": "Cleared"
   }
 ]
