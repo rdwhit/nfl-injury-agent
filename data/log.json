@@ -1,5 +1,61 @@
 [
   {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Josh Allen",
+    "team": "Buffalo Bills",
+    "from": "Cleared",
+    "to": "Active"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Trey Smith",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Jalen Royals",
+    "team": "Kansas City Chiefs",
+    "from": "Cleared",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "DeVonta Smith",
+    "team": "Philadelphia Eagles",
+    "from": "Active",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Dallas Goedert",
+    "team": "Philadelphia Eagles",
+    "from": "Out",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Marcus Epps",
+    "team": "Philadelphia Eagles",
+    "from": "Out",
+    "to": "Questionable"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Dawson Knox",
+    "team": "Buffalo Bills",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-27T11:56:06+00:00",
+    "player": "Harrison Butker",
+    "team": "Kansas City Chiefs",
+    "from": "Active",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-27T01:36:15+00:00",
     "player": "Karson Sharar",
     "team": "Arizona Cardinals",
@@ -3442,61 +3498,5 @@
     "team": "Arizona Cardinals",
     "from": "Cleared",
     "to": "Active"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Simi Fehoko",
-    "team": "Arizona Cardinals",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Divine Deablo",
-    "team": "Atlanta Falcons",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Zachariah Branch",
-    "team": "Atlanta Falcons",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Nnamdi Madubuike",
-    "team": "Baltimore Ravens",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Jaylinn Hawkins",
-    "team": "Baltimore Ravens",
-    "from": "Out",
-    "to": "Questionable"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Ja'Kobi Lane",
-    "team": "Baltimore Ravens",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Devontez Walker",
-    "team": "Baltimore Ravens",
-    "from": "Cleared",
-    "to": "Active"
-  },
-  {
-    "ts": "2026-11-24T13:27:33+00:00",
-    "player": "Marlon Humphrey",
-    "team": "Baltimore Ravens",
-    "from": "Out",
-    "to": "Questionable"
   }
 ]
